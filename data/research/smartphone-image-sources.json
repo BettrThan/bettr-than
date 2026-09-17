@@ -1,0 +1,52 @@
+[
+  {
+    "model": "pixel-10",
+    "imageURL": "https://lh3.googleusercontent.com/WhgVBiBUp3QvS9DhOzAlPdj2nICHrjuYLfRSc6x2RXt01fZnRL4WebCL8qi4IxMmqh5lyk6dkdQB4Fh0vRwW9Zm7K88EYyhQGIgO=s3000-w3000-e365-rw-v0-nu",
+    "sourceURL": "https://fi.google.com/about/phones/pixel-10"
+  },
+  {
+    "model": "pixel-10-pro",
+    "imageURL": "https://lh3.googleusercontent.com/dMZvnIt302u4eSnRzEtUMtIajxN0vkd4NX-OPPw4QNuHZO7-OvDwDOHhqamTveUEN7RiApOUl1ah30UMbGJhpeRUI2F9DtSTGQ=s3000-w3000-e365-rw-v0-nu",
+    "sourceURL": "https://fi.google.com/about/phones/pixel-10-pro"
+  },
+  {
+    "model": "pixel-10-pro-xl",
+    "imageURL": "https://lh3.googleusercontent.com/6-gkW1QYB5R9yuUTHm1ubY9iVzhEM2cgG7wxamaJO_l8998CeGfI827NwYwp2AHg9AgD2IzTrlSPJvJrKw1v_d2DgJpJDiCSiaW8=s3000-w3000-e365-rw-v0-nu",
+    "sourceURL": "https://fi.google.com/about/phones/pixel-10-pro"
+  },
+  {
+    "model": "iphone-17",
+    "imageURL": "https://www.apple.com/v/iphone/compare/al/images/overview/compare_iphone17_lavender__etuerbkei0ya_large_2x.jpg",
+    "sourceURL": "https://www.apple.com/iphone/compare/"
+  },
+  {
+    "model": "iphone-17-pro",
+    "imageURL": "https://www.apple.com/v/iphone/compare/al/images/overview/compare_iphone17_pro_deep_blue__dz8sfcp4h742_large_2x.jpg",
+    "sourceURL": "https://www.apple.com/iphone/compare/"
+  },
+  {
+    "model": "iphone-17-pro-max",
+    "imageURL": "https://www.apple.com/v/iphone/compare/al/images/overview/compare_iphone17_pro_max_cosmic_orange__d7yolstz8cmu_large_2x.jpg",
+    "sourceURL": "https://www.apple.com/iphone/compare/"
+  },
+  {
+    "model": "iphone-air",
+    "imageURL": "https://www.apple.com/v/iphone/compare/al/images/overview/compare_iphone_air_sky_blue__kvm15b10x6qa_large_2x.jpg",
+    "sourceURL": "https://www.apple.com/iphone/compare/"
+  },
+  {
+    "model": "galaxy-s26",
+    "imageURL": "https://api.samsungmobilepress.com/api/v1/file/BC585935A7D55023D6869D5FDF1D5996D9822BABBD3D6300049A97F2423F05A252424A3102095B1264C36D241B487A9F42EB7B58A3AF5FCCEB18CF87C304D747F5CD027EC454DEAA6553DB0544A136E80FC3B45C43DE321C78CCBB7E8197ECC7E48142DBF2C8B1F177375A559829E784ED022D6CD8F737285FDA6569D0D982DE",
+    "sourceURL": "https://www.samsungmobilepress.com/media-assets/galaxy-s26"
+  },
+  {
+    "model": "galaxy-s26-plus",
+    "imageURL": "https://api.samsungmobilepress.com/api/v1/file/D38F2C276C9EEA76FEE5D800EC9EB20C0A67B57F76891CF9B01C9D59AD33E8D9B4440E93D7CE65EB7B79810E6D147D6CECAC9FFFA88FAB1B0D440FF6ABFB784403458C186357062FC64DE1BED223767B5CF22BBF9C94B3D0DD4C6D370B8ECD1AA71252992638B3C5161E7B5A11BC7D221343FF8A91117BADEE18728FCB7126F7",
+    "sourceURL": "https://www.samsungmobilepress.com/media-assets/galaxy-s26-plus"
+  },
+  {
+    "model": "galaxy-s26-ultra",
+    "imageURL": "https://api.samsungmobilepress.com/api/v1/file/F0079F4C3B320974850EA001FDD3463F37B966748BDE494FE62748327134D1DCE64158DC226213A89FED047E03845F28FF11247D0F5F079675A5BA7EC119A8674E479D8C6611F18CA1274AB23544EAD1D59F28A1AE5591ADDC088A2826AA2F0B97EDE750BCA1D4633D188D39711E6B63A0AF87D47190E94DC73815539D17511B3AB052BB115C35872B3F0EAC1BAD3CFD",
+    "sourceURL": "https://www.samsungmobilepress.com/media-assets/galaxy-s26-ultra"
+  }
+]

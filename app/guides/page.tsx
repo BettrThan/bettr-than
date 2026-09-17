@@ -1,0 +1,6 @@
+import Link from "next/link";
+import type { Metadata } from "next";
+import { SiteHeader } from "@/components/site-header";
+import { buyingGuides } from "@/lib/buying-guides";
+export const metadata:Metadata={title:"Buying guides",description:"Understand the trade-offs before comparing headphones, phones, speakers, VR headsets, wearables, and gaming systems.",alternates:{canonical:"https://bettrthan.com/guides"}};
+export default function Guides(){return <main><SiteHeader/><div className="mx-auto max-w-6xl px-5 py-10"><p className="section-kicker">Buying guides</p><h1 className="mt-2 text-4xl font-black">Make the specifications useful.</h1><p className="mt-4 max-w-3xl text-slate-400">Understand the trade-offs, choose your priorities, then compare the approved catalog. These guides explain how to choose; they are not hands-on product reviews.</p><div className="mt-8 grid gap-5 md:grid-cols-2">{Object.entries(buyingGuides).map(([key,guide])=><Link key={key} href={`/guides/${key}`} className="rounded-3xl border border-white/10 bg-white/[.035] p-6 hover:border-cyan-300/40"><h2 className="text-xl font-bold text-cyan-200">{guide.title}</h2><p className="mt-3 leading-7 text-slate-400">{guide.intro}</p></Link>)}</div></div></main>;}

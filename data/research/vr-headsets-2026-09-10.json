@@ -1,0 +1,738 @@
+{
+  "id": "vr-headsets-2026-09-10",
+  "title": "VR headsets deep research: 10 products",
+  "category": "vr-headsets",
+  "researchedAt": "2026-09-10T00:00:00Z",
+  "products": [
+    {
+      "slug": "meta-quest-3",
+      "canonicalName": "Meta Quest 3 (512 GB)",
+      "brand": "Meta",
+      "sourceUrl": "https://www.meta.com/quest/quest-3/",
+      "imageUrl": "https://lookaside.fbsbx.com/elementpath/media/?media_id=616934980554357&transcode_extension=webp&version=1770683119",
+      "description": "Meta Quest 3 (512 GB) immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 499.99,
+        "resolution_per_eye_mpx": 4.56,
+        "refresh_rate_hz": 120,
+        "weight_grams": 515,
+        "storage_gb": 512,
+        "field_of_view_deg": 110,
+        "standalone": true,
+        "eye_tracking": false,
+        "hand_tracking": true,
+        "color_passthrough": true,
+        "battery_hours": 2.2,
+        "platform": "Meta Horizon OS"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "field_of_view_deg": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "meta-quest-3s",
+      "canonicalName": "Meta Quest 3S (128 GB)",
+      "brand": "Meta",
+      "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+      "imageUrl": "https://lookaside.fbsbx.com/elementpath/media/?media_id=616934980554357&transcode_extension=webp&version=1770683119",
+      "description": "Meta Quest 3S (128 GB) immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 299.99,
+        "resolution_per_eye_mpx": 3.52,
+        "refresh_rate_hz": 120,
+        "weight_grams": 514,
+        "storage_gb": 128,
+        "field_of_view_deg": 96,
+        "standalone": true,
+        "eye_tracking": false,
+        "hand_tracking": true,
+        "color_passthrough": true,
+        "battery_hours": 2.5,
+        "platform": "Meta Horizon OS"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "field_of_view_deg": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://www.meta.com/quest/quest-3s/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "apple-vision-pro-m5",
+      "canonicalName": "Apple Vision Pro (M5, 256 GB)",
+      "brand": "Apple",
+      "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+      "imageUrl": "https://www.apple.com/v/apple-vision-pro/l/images/overview/design/drawer/design_innovation_startframe__4mig33ckaf6y_large.jpg",
+      "description": "Apple Vision Pro (M5, 256 GB) immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 3499,
+        "resolution_per_eye_mpx": 11.5,
+        "refresh_rate_hz": 120,
+        "weight_grams": 750,
+        "storage_gb": 256,
+        "standalone": true,
+        "eye_tracking": true,
+        "hand_tracking": true,
+        "color_passthrough": true,
+        "battery_hours": 2.5,
+        "platform": "visionOS"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://www.apple.com/apple-vision-pro/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "samsung-galaxy-xr",
+      "canonicalName": "Samsung Galaxy XR",
+      "brand": "Samsung",
+      "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+      "imageUrl": null,
+      "description": "Samsung Galaxy XR immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 1799.99,
+        "resolution_per_eye_mpx": 8.8,
+        "refresh_rate_hz": 90,
+        "weight_grams": 545,
+        "storage_gb": 256,
+        "standalone": true,
+        "eye_tracking": true,
+        "hand_tracking": true,
+        "color_passthrough": true,
+        "battery_hours": 2,
+        "platform": "Android XR"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://www.samsung.com/us/xr/galaxy-xr/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "playstation-vr2",
+      "canonicalName": "PlayStation VR2",
+      "brand": "PlayStation",
+      "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+      "imageUrl": "https://gmedia.playstation.com/is/image/SIEPDC/section3b-headset?fmt=png-alpha&scl=1",
+      "description": "PlayStation VR2 immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 399.99,
+        "resolution_per_eye_mpx": 4.08,
+        "refresh_rate_hz": 120,
+        "weight_grams": 560,
+        "field_of_view_deg": 110,
+        "standalone": false,
+        "eye_tracking": true,
+        "hand_tracking": false,
+        "color_passthrough": true,
+        "platform": "PlayStation 5 / PC"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "field_of_view_deg": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps-vr2/ps-vr2-tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "vive-xr-elite",
+      "canonicalName": "HTC VIVE XR Elite",
+      "brand": "HTC",
+      "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+      "imageUrl": null,
+      "description": "HTC VIVE XR Elite immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 1099,
+        "resolution_per_eye_mpx": 3.69,
+        "refresh_rate_hz": 90,
+        "weight_grams": 625,
+        "storage_gb": 128,
+        "field_of_view_deg": 110,
+        "standalone": true,
+        "eye_tracking": false,
+        "hand_tracking": true,
+        "color_passthrough": true,
+        "battery_hours": 2,
+        "platform": "VIVE / PC VR"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "field_of_view_deg": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-xr-elite/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "pimax-dream-air",
+      "canonicalName": "Pimax Dream Air",
+      "brand": "Pimax",
+      "sourceUrl": "https://pimax.com/pages/dream-air",
+      "imageUrl": "https://store.pimax.com/cdn/shop/files/k11_3.webp?v=1778317671&width=1946",
+      "description": "Pimax Dream Air immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 2299,
+        "resolution_per_eye_mpx": 13.64,
+        "refresh_rate_hz": 90,
+        "weight_grams": 170,
+        "field_of_view_deg": 110,
+        "standalone": false,
+        "eye_tracking": true,
+        "hand_tracking": false,
+        "color_passthrough": false,
+        "platform": "PC VR"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "field_of_view_deg": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://pimax.com/pages/dream-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "pimax-crystal-super",
+      "canonicalName": "Pimax Crystal Super",
+      "brand": "Pimax",
+      "sourceUrl": "https://pimax.com/pages/crystal-super",
+      "imageUrl": "https://store.pimax.com/cdn/shop/files/Free_Shipping_DMAS_1.jpg?v=1788226861&width=1946",
+      "description": "Pimax Crystal Super immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 1599,
+        "resolution_per_eye_mpx": 14.75,
+        "refresh_rate_hz": 90,
+        "weight_grams": 600,
+        "field_of_view_deg": 127,
+        "standalone": false,
+        "eye_tracking": true,
+        "hand_tracking": false,
+        "color_passthrough": true,
+        "platform": "PC VR"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "field_of_view_deg": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://pimax.com/pages/crystal-super",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "bigscreen-beyond-2",
+      "canonicalName": "Bigscreen Beyond 2",
+      "brand": "Bigscreen",
+      "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+      "imageUrl": "https://store.bigscreenvr.com/cdn/shop/t/10/assets/dyn-bs2--clear-softstrap-universalcushion.webp?v=149398735728033044081784945596",
+      "description": "Bigscreen Beyond 2 immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 1019,
+        "resolution_per_eye_mpx": 6.55,
+        "refresh_rate_hz": 90,
+        "weight_grams": 107,
+        "field_of_view_deg": 116,
+        "standalone": false,
+        "eye_tracking": false,
+        "hand_tracking": false,
+        "color_passthrough": false,
+        "platform": "SteamVR"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "field_of_view_deg": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://www.bigscreenvr.com/beyond2",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "vive-focus-vision",
+      "canonicalName": "HTC VIVE Focus Vision",
+      "brand": "HTC",
+      "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+      "imageUrl": "https://shop-us.vive.com/cdn/shop/files/vive-focus-vision-vr-headset-kv-1920.jpg?v=1768600060&width=480",
+      "description": "HTC VIVE Focus Vision immersive headset normalized across display, tracking, mobility, and platform hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 999,
+        "resolution_per_eye_mpx": 5.97,
+        "refresh_rate_hz": 120,
+        "weight_grams": 785,
+        "storage_gb": 128,
+        "field_of_view_deg": 120,
+        "standalone": true,
+        "eye_tracking": true,
+        "hand_tracking": true,
+        "color_passthrough": true,
+        "battery_hours": 2,
+        "platform": "VIVE / PC VR"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "resolution_per_eye_mpx": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "field_of_view_deg": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "standalone": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "eye_tracking": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "hand_tracking": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "color_passthrough": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "platform": {
+          "sourceUrl": "https://www.vive.com/us/product/vive-focus-vision/specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    }
+  ]
+}

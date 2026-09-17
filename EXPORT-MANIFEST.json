@@ -1,0 +1,1592 @@
+{
+  "version": 40,
+  "commit": "9494dbf7435faaf1108d1865a975b626d72db3d6",
+  "source_file_count": 317,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "dc0d24e0bed234200b4a306567fbe2844c5a99f669b6eb3589a6909736b25f6a",
+      "bytes": 519
+    },
+    {
+      "path": ".npmrc",
+      "sha256": "494e64a8818b6158e89321250500ad5ad018e33ad5cfea06a1cacd2cf4da75fa",
+      "bytes": 76
+    },
+    {
+      "path": ".openai/hosting.json",
+      "sha256": "b15901a7c99d326a578cbef645a52d3bc54011334993f2f00183b094afed3566",
+      "bytes": 91
+    },
+    {
+      "path": ".vinext/fonts/space-grotesk-feef4dc31705/space-grotesk-53435720.woff2",
+      "sha256": "d699664b145bfeeccc66a4cce7fa55e14eb63efd7ec6b0b2ec52e25dd98f3917",
+      "bytes": 6772
+    },
+    {
+      "path": ".vinext/fonts/space-grotesk-feef4dc31705/space-grotesk-a57c9413.woff2",
+      "sha256": "a0d054c4af557de20afd6ca59f47ab353bcaec49c63ff04b6c9d39d0f8910557",
+      "bytes": 22320
+    },
+    {
+      "path": ".vinext/fonts/space-grotesk-feef4dc31705/space-grotesk-e911c2d9.woff2",
+      "sha256": "054c266fbb441ee059365dba0885d206f67ca05b375de869b88e02ebfccc9b9d",
+      "bytes": 18924
+    },
+    {
+      "path": ".vinext/fonts/space-grotesk-feef4dc31705/style.css",
+      "sha256": "30ca36e3330263465d4d5225ca5917812f5a187e82732254edc351cfb17f9a86",
+      "bytes": 1377
+    },
+    {
+      "path": ".vinext/fonts/work-sans-0983f6bb48ae/style.css",
+      "sha256": "9fa9fd0d00c474ab7c1b5f9e2e6dba3220775c27e62bcc76a968fad33c0338c6",
+      "bytes": 1341
+    },
+    {
+      "path": ".vinext/fonts/work-sans-0983f6bb48ae/work-sans-7ebe4aa2.woff2",
+      "sha256": "fe0af300ce56932381af82ed960d8582dc8308ac2b7b48dd505dd49573a83ada",
+      "bytes": 35776
+    },
+    {
+      "path": ".vinext/fonts/work-sans-0983f6bb48ae/work-sans-d745e173.woff2",
+      "sha256": "72cd8f67849cc714f3364eeeb378df9a49f4aff00e6a3640fad36c9c93a9b197",
+      "bytes": 50524
+    },
+    {
+      "path": ".vinext/fonts/work-sans-0983f6bb48ae/work-sans-df345254.woff2",
+      "sha256": "a7685ec477b23edc368efaa59d8f717a1e01208b68f52982673552a04f9398d3",
+      "bytes": 11776
+    },
+    {
+      "path": "README.md",
+      "sha256": "4a852b0fb725e74994dd87ef32cf1c1e62982ff73eca2c4f01df040366c6730f",
+      "bytes": 5689
+    },
+    {
+      "path": "app/admin/analytics/page.tsx",
+      "sha256": "d9aaad71a691df5c88c571b7728a4171113810e83032e120afbfbb0ddfeaa47b",
+      "bytes": 7033
+    },
+    {
+      "path": "app/admin/comparisons/page.tsx",
+      "sha256": "8e07c8da220ae8c71cca0483e2f81ef83c72d5a648b10939702cbe4be215d0c1",
+      "bytes": 5732
+    },
+    {
+      "path": "app/admin/ingestion/page.tsx",
+      "sha256": "d992408c0847bcb5c483034a085ce19e8784137d255d37b67be034fd89766024",
+      "bytes": 2480
+    },
+    {
+      "path": "app/admin/offers/page.tsx",
+      "sha256": "1e152208970fc7c66a6754a34eae81e90ee3ed2296b3acafbaad48a551fea798",
+      "bytes": 4153
+    },
+    {
+      "path": "app/admin/readiness/page.tsx",
+      "sha256": "200f14740c8c64bbccae7601b26d0f7c560a601a0af9ba010ce835484f703761",
+      "bytes": 4720
+    },
+    {
+      "path": "app/admin/research/[id]/page.tsx",
+      "sha256": "26b491777935d11c68a0439692c59f20ff380908f69d5008405ce40c2e0d0144",
+      "bytes": 3985
+    },
+    {
+      "path": "app/admin/research/page.tsx",
+      "sha256": "add90804a0f22429f74466704487429895ece977d45a3b8abd61bc00c67e2559",
+      "bytes": 1554
+    },
+    {
+      "path": "app/api/admin/comparisons/[id]/verdict/route.ts",
+      "sha256": "4e9b665b89a1ff175cd3866b7ac7d5a8599a1cbb6ed7a1d9080c86b4b0e58515",
+      "bytes": 4780
+    },
+    {
+      "path": "app/api/admin/comparisons/batch/route.ts",
+      "sha256": "c1160432eb7bf17bd063547c310ab159d2ba17058bfc4777331fdd3135f2ee4f",
+      "bytes": 2889
+    },
+    {
+      "path": "app/api/admin/comparisons/publish-all/route.ts",
+      "sha256": "2058c7abbbb236c60ec6fa90cb6ba0f31967a6012e262b6e57a451fd842a74ac",
+      "bytes": 557
+    },
+    {
+      "path": "app/api/admin/comparisons/route.ts",
+      "sha256": "5a2f54498c5552b52eb11202b4974c09a0b93045571ef8b84c1f5ce8e61633cc",
+      "bytes": 5535
+    },
+    {
+      "path": "app/api/admin/ingestion/[id]/extract/route.ts",
+      "sha256": "ada5fde900d742560fbd0400bc85d08788f4ec6e800bfe22b96af94250d40806",
+      "bytes": 3528
+    },
+    {
+      "path": "app/api/admin/ingestion/[id]/review/route.ts",
+      "sha256": "48e32ce75071329a93da68b0541f4a34104bb70c9fc7b718fad7072c3cc2d25c",
+      "bytes": 7443
+    },
+    {
+      "path": "app/api/admin/ingestion/import/route.ts",
+      "sha256": "3d58fde784649fd703045adeea1d909f7efd70756d7123d1f0a053d246528075",
+      "bytes": 10656
+    },
+    {
+      "path": "app/api/admin/ingestion/route.ts",
+      "sha256": "e370207c097cdbc057c560aaf348e40664b310bdc7ae4a935dd1aba9650aff26",
+      "bytes": 1700
+    },
+    {
+      "path": "app/api/admin/offers/import/route.ts",
+      "sha256": "55cea1bcb8e1d6a4f6bd49bc008fdef17e6684eac4d3276be3cc4ff3a575c9a0",
+      "bytes": 1961
+    },
+    {
+      "path": "app/api/admin/offers/route.ts",
+      "sha256": "c85afcedf26e83c566f6ede5c1276ec36e7a10e2dd983a23bffea575c370606d",
+      "bytes": 2017
+    },
+    {
+      "path": "app/api/admin/research/[id]/route.ts",
+      "sha256": "277f517f4278ab1815bb22c96db19ee9642ad6c1cf8eb98905faff5718578328",
+      "bytes": 717
+    },
+    {
+      "path": "app/api/admin/research/route.ts",
+      "sha256": "64674c496427fac97fce0c6373fe209941fa302259ac8c12dd4e326491e23e02",
+      "bytes": 1801
+    },
+    {
+      "path": "app/api/analytics/route.ts",
+      "sha256": "820958e68962c54f3e1aeb828b7527e17c057a8f552b5f06a287945ef79c2068",
+      "bytes": 1295
+    },
+    {
+      "path": "app/api/discovery-interest/route.ts",
+      "sha256": "965f84eba1b336c2d8e84d9f0529043e65330bb3cb5a1699926a474e506b6678",
+      "bytes": 744
+    },
+    {
+      "path": "app/api/system/catalog-bootstrap/route.ts",
+      "sha256": "a0cedbcf833498979586a6d58fba200b46c254d5610e339271ffc9f3af8219cf",
+      "bytes": 824
+    },
+    {
+      "path": "app/api/votes/[comparison]/route.ts",
+      "sha256": "a659d75fcc2ee921033ee6e30c3758fed22a259b5b3bc3ea72e2346758e4f393",
+      "bytes": 9300
+    },
+    {
+      "path": "app/catalog/[slug]/page.tsx",
+      "sha256": "6dc846cedb4724168b5f5a7358d54836f7d31ec89e5d6e5eb352cb8cbf5dcda0",
+      "bytes": 8304
+    },
+    {
+      "path": "app/catalog/page.tsx",
+      "sha256": "904a40e4f89611219e11f82398357672d5ae3e265da932fd212ba24e0dbfd960",
+      "bytes": 3126
+    },
+    {
+      "path": "app/categories/page.tsx",
+      "sha256": "d79af2fb1f3d94b1940a7c4fac6d5d9839afefff8d1f3b9636536d1e0c55cd02",
+      "bytes": 1774
+    },
+    {
+      "path": "app/category/[slug]/page.tsx",
+      "sha256": "36b6fe1c18e6db57ceafa9898943cb99a9de34d601d9a25819fb71891f39765c",
+      "bytes": 4596
+    },
+    {
+      "path": "app/category/headphones/page.tsx",
+      "sha256": "eb3448525371e4406b96e74750d449fb267bc489ae4c8db25699feb52d251be3",
+      "bytes": 12400
+    },
+    {
+      "path": "app/category/portable-speakers/page.tsx",
+      "sha256": "3818670c4d4f79f7c4978bf12d8cb13c284a33748a95928dea671784123692c1",
+      "bytes": 1008
+    },
+    {
+      "path": "app/category/smartphones/page.tsx",
+      "sha256": "bde3f7c3d14e10ef3b78696a07c08b0d7ba57570233f8fb6db215d3378d0826a",
+      "bytes": 2992
+    },
+    {
+      "path": "app/chatgpt-auth.ts",
+      "sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc",
+      "bytes": 2550
+    },
+    {
+      "path": "app/compare/[category]/[comparison]/page.tsx",
+      "sha256": "d51f415f55afd394307035fd9d81b60cd628e8cee38ce88b7b9cf67ca08d2995",
+      "bytes": 3518
+    },
+    {
+      "path": "app/compare/[category]/page.tsx",
+      "sha256": "0ad6102e49607a6be24b13faf84ff0394225ec3d392bcd4aa95496b87ee192d7",
+      "bytes": 8560
+    },
+    {
+      "path": "app/compare/headphones/[comparison]/page.tsx",
+      "sha256": "b4c42c261db0dc73f908bc22640008de50e8f0f9db2ebe306b76dc51e60d0aeb",
+      "bytes": 5360
+    },
+    {
+      "path": "app/compare/smartphones/[comparison]/page.tsx",
+      "sha256": "f438792a3f3e83c03f445429ec21b6d81c5eb32833051b5cd522d30cb51ad4c3",
+      "bytes": 3340
+    },
+    {
+      "path": "app/find/page.tsx",
+      "sha256": "4574be5281b6776f6f63c23c012ec8ccc25644ea1c2150a8c47645c3edf8a8db",
+      "bytes": 8840
+    },
+    {
+      "path": "app/globals.css",
+      "sha256": "e8beff58fb92ac03cca795262082bc08f18f6bcba77415a98219c62f77a05fe9",
+      "bytes": 13077
+    },
+    {
+      "path": "app/go/[slug]/route.ts",
+      "sha256": "58691564337d1cdb8cfd21181ae3729697b67a5aa8d9e0ebf972a5ec934fa30a",
+      "bytes": 659
+    },
+    {
+      "path": "app/go/offer/[id]/route.ts",
+      "sha256": "63042f218a5fb217ca0286e628b8127562111fc380d2c93c1c0d5df03f45a2aa",
+      "bytes": 2302
+    },
+    {
+      "path": "app/guides/[category]/page.tsx",
+      "sha256": "825054fd3b500ac982ca514dccfdf20a4cdd4db9bfdd58cb43091ead0acae508",
+      "bytes": 2352
+    },
+    {
+      "path": "app/guides/page.tsx",
+      "sha256": "ec6a01bc9437d5f9ccfae046ec929d1b6f3c9109b1409e02476f040716e83ff0",
+      "bytes": 1242
+    },
+    {
+      "path": "app/how-we-earn/page.tsx",
+      "sha256": "2af4154fb92e2e67096195631c8151d3d61f9a3f60dbfae075c93d016d43d698",
+      "bytes": 2133
+    },
+    {
+      "path": "app/how-we-score/page.tsx",
+      "sha256": "75bf05182eee00580b4f6b8477f9bc16a7c53867b6c3e0356a6cd67c2e42ec81",
+      "bytes": 6211
+    },
+    {
+      "path": "app/layout.tsx",
+      "sha256": "b6d74adc26bb7ae384d4bfedbad11b6a232607689d6ae9f0bea34b170262b7d5",
+      "bytes": 1056
+    },
+    {
+      "path": "app/loading.tsx",
+      "sha256": "f6acf880d1b67a4411a39bca3875cfa8cfa0405f1db47b49ca42e18a48f19ac4",
+      "bytes": 525
+    },
+    {
+      "path": "app/page.tsx",
+      "sha256": "764956f13497e8fdcade14374242cb6bcb795366c2f8230572715b496b4708f2",
+      "bytes": 10021
+    },
+    {
+      "path": "app/product/[slug]/page.tsx",
+      "sha256": "e4eb806134d51b13a76ead6d05763b1a42d6798e64cb69abc5a2ceb734532b7c",
+      "bytes": 4954
+    },
+    {
+      "path": "app/rankings/page.tsx",
+      "sha256": "1134594d2ee93edddcecfb7757e354b1e08bb01856e974db3a3cf6ad40ba45cd",
+      "bytes": 5415
+    },
+    {
+      "path": "app/robots.ts",
+      "sha256": "14d91cc6a3833a9f52e72d6cf8c9b040d08d26f68eb81e728d8ef9e8abac085f",
+      "bytes": 237
+    },
+    {
+      "path": "app/sitemap.ts",
+      "sha256": "d4bb89ccffde99ad7bc84297630e8d8834deb9fc4ee4c560533ce24c4d77ed0b",
+      "bytes": 3678
+    },
+    {
+      "path": "build/sites-vite-plugin.ts",
+      "sha256": "81b7cbfaeb970611572256aba0e313425beb3809f6426f63750696c15d9c756b",
+      "bytes": 1254
+    },
+    {
+      "path": "components.json",
+      "sha256": "31f4ca67a4a62572571003d3d5aac85ee6fbfca67a192924bac6b168d95e98fd",
+      "bytes": 420
+    },
+    {
+      "path": "components/catalog-product-image.tsx",
+      "sha256": "f5525522edb6469e169c8ab301b9dfd396d8a46d8aa5b7c504bffd6392ef2908",
+      "bytes": 923
+    },
+    {
+      "path": "components/category-card.tsx",
+      "sha256": "24ba2a3f7f84d7678dffd42def8258af502c9415cbffff52f77f559f0c7e11bb",
+      "bytes": 1672
+    },
+    {
+      "path": "components/community-vote.tsx",
+      "sha256": "8b4b576d89d366ce9fc12c3ed671916275e915440dc82caebf848ae0d9d43e26",
+      "bytes": 8252
+    },
+    {
+      "path": "components/comparison-builder.tsx",
+      "sha256": "57035f087a0f0d56fda6898a6db305e250137fd6427548c671463e254f27a915",
+      "bytes": 18984
+    },
+    {
+      "path": "components/comparison-page-selector.tsx",
+      "sha256": "eec756d8ed02c9880c7e6b3319c19a7a6f41a5fba6d3db5e99e6b0a70e802157",
+      "bytes": 2413
+    },
+    {
+      "path": "components/comparison-product-score.tsx",
+      "sha256": "542e6a200ba90f099938e1d1ad375077ace5298cc0b0fcbea0d90378bd0116c7",
+      "bytes": 654
+    },
+    {
+      "path": "components/comparison-specifications.tsx",
+      "sha256": "cc811a68bfb4bf9e7bb88eb49d20f18f1a5d514c48efbaadd4b8a837c7c8d415",
+      "bytes": 1807
+    },
+    {
+      "path": "components/comparison-workspace.tsx",
+      "sha256": "79708cd2a28f73340d86a248560d9ed201d198951496a4a2c5627ccd83d9c621",
+      "bytes": 6561
+    },
+    {
+      "path": "components/csv-product-importer.tsx",
+      "sha256": "3b6dad52d800fd2f9e328042b7e52ae0d2bc5aa094581d34fa2b2c210df978da",
+      "bytes": 8161
+    },
+    {
+      "path": "components/decision-analytics-view.tsx",
+      "sha256": "b3dc70983a190cfa9609af56f8fb22264362dcda22cba2bf87c3762e2fa8559f",
+      "bytes": 767
+    },
+    {
+      "path": "components/decision-page-event.tsx",
+      "sha256": "2b9dc8462adbe8aaecf8ca60e6770e27707f426e35707d165dff41b7e9c79832",
+      "bytes": 635
+    },
+    {
+      "path": "components/extended-category-comparison-experience.tsx",
+      "sha256": "c6272a07c0c73e6de50a6b5c2222df65d43ce7f7f6c2e5961247316d2a182747",
+      "bytes": 6914
+    },
+    {
+      "path": "components/extended-category-page.tsx",
+      "sha256": "47b99c29d218fa3f4f2fe3189435797ce2e170c198ed899d3a90f4684cc74101",
+      "bytes": 2863
+    },
+    {
+      "path": "components/headphone-comparison-experience.tsx",
+      "sha256": "c85e23f759c0c29cc20a92fd7c98b32deb8ed58eebf8287cb0fe62c16894e4a2",
+      "bytes": 11821
+    },
+    {
+      "path": "components/headphone-comparison-picker.tsx",
+      "sha256": "135f3f891de51f2ca43eb2d1416a1d5812b578d5f191724be8f1ac6195a4447d",
+      "bytes": 7713
+    },
+    {
+      "path": "components/home-comparison-switcher.tsx",
+      "sha256": "9adad6e34c6731968247a16e467a653f58aeae7833b9c53ce59ca04c28d35e2a",
+      "bytes": 9594
+    },
+    {
+      "path": "components/ingestion-dashboard.tsx",
+      "sha256": "551cb670910a6b25cd6be638ca7fb05ab8982bc0b9b01a2b6f2104179e11ebb5",
+      "bytes": 10495
+    },
+    {
+      "path": "components/launch-readiness.tsx",
+      "sha256": "b4296e6e3c574968f8dfb91efb422055f4656437f5c3361ab8a9e3310fb9323d",
+      "bytes": 2075
+    },
+    {
+      "path": "components/offer-importer.tsx",
+      "sha256": "f9773a6ad1a468b1d36fc6c815a0c77546c0cb6f67341d52476b7914a96444e2",
+      "bytes": 4167
+    },
+    {
+      "path": "components/offer-manager.tsx",
+      "sha256": "052a9ba7bf4301b9528f07298508c10d5a5c053739bdce0fe2e5601a9e42ff5e",
+      "bytes": 10704
+    },
+    {
+      "path": "components/product-mark.tsx",
+      "sha256": "1b46866d94b790720d6f5415981df95a0b9aeffd2729b7fcbf33827e9717fb0c",
+      "bytes": 1166
+    },
+    {
+      "path": "components/product-review-editor.tsx",
+      "sha256": "ef6b7605122de269844c007efb90efd17567d606e09654e4d4c7b622bac5cc8a",
+      "bytes": 10294
+    },
+    {
+      "path": "components/related-comparisons.tsx",
+      "sha256": "0c1ca409ef147acd296970c2c355e631ddbf2848d893823fce0b20f1722364e5",
+      "bytes": 1154
+    },
+    {
+      "path": "components/research-console.tsx",
+      "sha256": "ea8e105f2f194f328a30e60593fe904123d8260c5f03556f2e7129a98920f0b7",
+      "bytes": 5561
+    },
+    {
+      "path": "components/retailer-offers.tsx",
+      "sha256": "b3c5fba557c8b06d7ff50160020d768af774c63595a3c18a78612b020c401ae4",
+      "bytes": 3659
+    },
+    {
+      "path": "components/site-header.tsx",
+      "sha256": "2bfabc46d9b113486ced314e31583bca511d0bb90a936d45da018de155093908",
+      "bytes": 1984
+    },
+    {
+      "path": "components/smartphone-comparison-experience.tsx",
+      "sha256": "2de63e030f9b58f572131e71fe21a1d32c769e6424c52b5be557e7cdd39e2b5a",
+      "bytes": 8101
+    },
+    {
+      "path": "components/ui/accordion.tsx",
+      "sha256": "a4f153089ba886dfcf73fac26b5c01ca933fa12fbe88df6fb723912bfffdfbb0",
+      "bytes": 2048
+    },
+    {
+      "path": "components/ui/alert-dialog.tsx",
+      "sha256": "9a8d950f2b9b4352d5ebb762fb44d5c28c2d353aa29712071973656a8736e311",
+      "bytes": 5439
+    },
+    {
+      "path": "components/ui/alert.tsx",
+      "sha256": "2cc59b5f7bda91c1670884b1bf46bfc8a2a6f226cef184f5762acc037188885b",
+      "bytes": 1614
+    },
+    {
+      "path": "components/ui/aspect-ratio.tsx",
+      "sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407",
+      "bytes": 274
+    },
+    {
+      "path": "components/ui/attachment.tsx",
+      "sha256": "ae8a25dd1a896d3964e3ef54d97e51221b418cde287dfd794428b89951c5c790",
+      "bytes": 6002
+    },
+    {
+      "path": "components/ui/avatar.tsx",
+      "sha256": "58a846bf1617b94b9681921db9b8461d0145f311424663d11678a06b6153cb34",
+      "bytes": 2916
+    },
+    {
+      "path": "components/ui/badge.tsx",
+      "sha256": "46a0de5224f6a5d5d63d45246534288518dce888f031064bff925bbc7fe6ad97",
+      "bytes": 1776
+    },
+    {
+      "path": "components/ui/breadcrumb.tsx",
+      "sha256": "d4c0831bba2212e778248f54a6ace6ef378df8bba4616d1abf27787a31eabae5",
+      "bytes": 2350
+    },
+    {
+      "path": "components/ui/bubble.tsx",
+      "sha256": "870cc0c5cfc8a515053f7e41e706a6bd017a909b45f1305fd3b164a52cc4483b",
+      "bytes": 4699
+    },
+    {
+      "path": "components/ui/button-group.tsx",
+      "sha256": "784c89d8ee683e1bc972ae69e6ea8225a7f63abe22aa1b5fc3423ae8a2a399c0",
+      "bytes": 2202
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "sha256": "cc36af0f8b5019c33cc039fbf03bb952a513072b15b55b53c592b78af3e5f4c4",
+      "bytes": 2392
+    },
+    {
+      "path": "components/ui/calendar.tsx",
+      "sha256": "3855fbe0d3f8ad3a4b93071f98b76a9f6782d46ec8b05f5d2ddbee1e4e39bc84",
+      "bytes": 7832
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "sha256": "c48dd3b96be90a7066f1aebf294f0af9d00ebcdc367d5d4aca55429ade570c1c",
+      "bytes": 1987
+    },
+    {
+      "path": "components/ui/carousel.tsx",
+      "sha256": "b7ea0dda3903d972c186f739e23da61f547bc83b5a0bf13b16856577846d5fc3",
+      "bytes": 5556
+    },
+    {
+      "path": "components/ui/chart.tsx",
+      "sha256": "45aa5ea4a386f4fb5b8869ff4bab3a08cf89255190ee322043baf84c3e950b6a",
+      "bytes": 10614
+    },
+    {
+      "path": "components/ui/checkbox.tsx",
+      "sha256": "b23ab9d4deeedf2ac8f512c368361ede681aa383437ef48563a6f9b7dbe95f27",
+      "bytes": 1214
+    },
+    {
+      "path": "components/ui/collapsible.tsx",
+      "sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b",
+      "bytes": 795
+    },
+    {
+      "path": "components/ui/combobox.tsx",
+      "sha256": "2d68e78b2dc7e38a085f222dede60a80b4f8229a6e91732c484605e204d46735",
+      "bytes": 9158
+    },
+    {
+      "path": "components/ui/command.tsx",
+      "sha256": "361193df1e3d64a9e9b5048f045264782fcb387aab3f00f2b805fdcbf538b16a",
+      "bytes": 4818
+    },
+    {
+      "path": "components/ui/context-menu.tsx",
+      "sha256": "2cf1fcf59df0649a3e2a126d1df2f639145f6b6bf5689ee54af1f40ab1245017",
+      "bytes": 8268
+    },
+    {
+      "path": "components/ui/dialog.tsx",
+      "sha256": "dce39c6adc47d997bd2567f8b7a72f466b0134715105cd42f9194007b8ecdb14",
+      "bytes": 4303
+    },
+    {
+      "path": "components/ui/direction.tsx",
+      "sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6",
+      "bytes": 506
+    },
+    {
+      "path": "components/ui/drawer.tsx",
+      "sha256": "cb6eaf58eb0757ca91af284e5d925b89a42ad7eb19cb3f44c575a3487aa9350f",
+      "bytes": 4255
+    },
+    {
+      "path": "components/ui/dropdown-menu.tsx",
+      "sha256": "98f0dcdae38225b73734aceeb9213dd751fea2c72ea520df31003cd133deac8a",
+      "bytes": 8418
+    },
+    {
+      "path": "components/ui/empty.tsx",
+      "sha256": "ae95bdcf367a076ae02e7925f14522a148798f72d9651749c6d55497dba584c0",
+      "bytes": 2396
+    },
+    {
+      "path": "components/ui/field.tsx",
+      "sha256": "ba67d76f017ac059fc86cf8c344e0b2991c4322d3619e125498c19b87f6eefbd",
+      "bytes": 6159
+    },
+    {
+      "path": "components/ui/form.tsx",
+      "sha256": "315b46bb75ab7d1c6061b5d750aa4bedf6e7a455e15e2d7f9182f053d5972b1e",
+      "bytes": 3757
+    },
+    {
+      "path": "components/ui/hover-card.tsx",
+      "sha256": "f5d8df42c59370ec14d61bcc54f7d68e9bb7dfa0d6a872b2f7cffc2aafbf23b8",
+      "bytes": 1526
+    },
+    {
+      "path": "components/ui/input-group.tsx",
+      "sha256": "6afbd58fea4c438e6252dc4568bddc122e84ababead4ad5cee50ace01100c9a0",
+      "bytes": 5065
+    },
+    {
+      "path": "components/ui/input-otp.tsx",
+      "sha256": "161946daa89f0eda2575b9271c0494e35807c4ffb55598a49f67160c17fec299",
+      "bytes": 2254
+    },
+    {
+      "path": "components/ui/input.tsx",
+      "sha256": "8c4612a7c41319ac5049daa3b34b080f9784b6245c17780eb87c127e58e473db",
+      "bytes": 962
+    },
+    {
+      "path": "components/ui/item.tsx",
+      "sha256": "6e2144d6d87142dbbe56d568810bf546318c8aa661447ebb0d76ebbf382cb45f",
+      "bytes": 4486
+    },
+    {
+      "path": "components/ui/kbd.tsx",
+      "sha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13",
+      "bytes": 862
+    },
+    {
+      "path": "components/ui/label.tsx",
+      "sha256": "a476e41f08b9de5bd447de66a33d8bc2ad18f2fa6b96c064778bab4b6f439f4c",
+      "bytes": 606
+    },
+    {
+      "path": "components/ui/marker.tsx",
+      "sha256": "3d798763f094b2bb5e7ade2d5cd1b9bab498bc8ca7fd4cfaf4e5835bdedc34a0",
+      "bytes": 1864
+    },
+    {
+      "path": "components/ui/menubar.tsx",
+      "sha256": "9243af8afcea03703398ccd1c2a8c0a87ad6cbaf2bd272fb609f5b79fe46aebb",
+      "bytes": 8389
+    },
+    {
+      "path": "components/ui/message-scroller.tsx",
+      "sha256": "bb7660a248e4e9589c3816c7c1c199ea1381a70d2c8476ae895b567a7a4d86cf",
+      "bytes": 3992
+    },
+    {
+      "path": "components/ui/message.tsx",
+      "sha256": "9d2952bf3b641081f09aa2739535e6bbd1be0a4946789752a2c20d8aaef43185",
+      "bytes": 2232
+    },
+    {
+      "path": "components/ui/native-select.tsx",
+      "sha256": "007516b111fca8c98a6c40c94ab91bb68cc5b52afce1ed1f5e510c3d86e7347c",
+      "bytes": 1995
+    },
+    {
+      "path": "components/ui/navigation-menu.tsx",
+      "sha256": "889d358a77de88e9cb6f39ea4895ea4c76eaf01d731b74e44f1c41e97a78a044",
+      "bytes": 6658
+    },
+    {
+      "path": "components/ui/pagination.tsx",
+      "sha256": "374ad135c3d4ff3ec080a0009cd9745cdd0e12faa89d2b0e86074f11e5127fd1",
+      "bytes": 2717
+    },
+    {
+      "path": "components/ui/popover.tsx",
+      "sha256": "31c350309ff5d3034e6ecf1b0eda75ba8855bdbf987fc7ad6d71f0ef07c5a447",
+      "bytes": 2357
+    },
+    {
+      "path": "components/ui/progress.tsx",
+      "sha256": "c8c26e8f5f041c3cdf4915347dc1d9c022f9448f149990fadcaf303e952fa57d",
+      "bytes": 755
+    },
+    {
+      "path": "components/ui/radio-group.tsx",
+      "sha256": "fe5ce39636d0818c2bf9c4eebddff893d1225fa2c81b5fa4bb8cbb39a8c913ce",
+      "bytes": 1460
+    },
+    {
+      "path": "components/ui/resizable.tsx",
+      "sha256": "bc63958467aa00557c551bb0d96a5ae4c965c1e1ba2380e595949d933b132f7c",
+      "bytes": 1815
+    },
+    {
+      "path": "components/ui/scroll-area.tsx",
+      "sha256": "8bd9d986b2844c9a87de825c6de4787b6739b36c3dc9a05ccf3eb107160e4043",
+      "bytes": 1639
+    },
+    {
+      "path": "components/ui/select.tsx",
+      "sha256": "0b796a108a4eb5ba52d9ad938b7aea36dc56ae66c703a6d0a23dbc24f96daff3",
+      "bytes": 6353
+    },
+    {
+      "path": "components/ui/separator.tsx",
+      "sha256": "6da346505c8629a4668420d2a5ca48891383bbe0b0ceb14163537c671879427e",
+      "bytes": 694
+    },
+    {
+      "path": "components/ui/sheet.tsx",
+      "sha256": "63863cf2df8f8973e52b3459ac9bdbf81be1262dbc70eb53d5271ffb03488e16",
+      "bytes": 4188
+    },
+    {
+      "path": "components/ui/sidebar.tsx",
+      "sha256": "4a8d73e7730a2b1fcecfca31299ed26db65c2307b84197a59c6ec7c01c7ad28e",
+      "bytes": 21526
+    },
+    {
+      "path": "components/ui/skeleton.tsx",
+      "sha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239",
+      "bytes": 276
+    },
+    {
+      "path": "components/ui/slider.tsx",
+      "sha256": "0e37484f4b416e79ac18c655cac961aefacf6e67085cfc2b320ea8af545635a3",
+      "bytes": 1991
+    },
+    {
+      "path": "components/ui/sonner.tsx",
+      "sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f",
+      "bytes": 1034
+    },
+    {
+      "path": "components/ui/spinner.tsx",
+      "sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9",
+      "bytes": 331
+    },
+    {
+      "path": "components/ui/switch.tsx",
+      "sha256": "386d4d4deb39f34126f9700fe9bf5393d238485dd94018bba9d154dda84c62ae",
+      "bytes": 1408
+    },
+    {
+      "path": "components/ui/table.tsx",
+      "sha256": "20e5a7f224959c6b75802995706a97e9da171f693d4b6b1b436388fcd9df96f3",
+      "bytes": 2478
+    },
+    {
+      "path": "components/ui/tabs.tsx",
+      "sha256": "865d0194331b9b2be36723fa79d3575dc83078b4cb941cafee87cb72fc2cff46",
+      "bytes": 3782
+    },
+    {
+      "path": "components/ui/textarea.tsx",
+      "sha256": "253cdeb487c73beaaccdf47fc163e36e7d5b7ae6ddf09a4f64998a109a112979",
+      "bytes": 759
+    },
+    {
+      "path": "components/ui/toggle-group.tsx",
+      "sha256": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
+      "bytes": 2308
+    },
+    {
+      "path": "components/ui/toggle.tsx",
+      "sha256": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
+      "bytes": 1565
+    },
+    {
+      "path": "components/ui/tooltip.tsx",
+      "sha256": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
+      "bytes": 1830
+    },
+    {
+      "path": "components/use-case-discovery.tsx",
+      "sha256": "f630a1dda0e4c8953b8cd05eff3e2f3304b5d05d4d4827e38002c97157217d4a",
+      "bytes": 3768
+    },
+    {
+      "path": "components/verdict-editor.tsx",
+      "sha256": "3f38f00945ee31dd5b0a7ed4007900d44095fcb7ef26c1f82e49d7cfe8db55d8",
+      "bytes": 7463
+    },
+    {
+      "path": "components/winner-indicator.tsx",
+      "sha256": "80e0f356775ac480ce3c03422285be92269208eaae1f1715f09adb228c0b902e",
+      "bytes": 2460
+    },
+    {
+      "path": "data/research/game-consoles-2026-09-10.json",
+      "sha256": "560d9a842fb71ba5ae2e2c3c8e81767a24c2acf209f629f7199a4ba320a493a8",
+      "bytes": 34507
+    },
+    {
+      "path": "data/research/portable-speakers-2026-09-10.json",
+      "sha256": "8fe87e8b047495b3a38ebeb9ce1ca491006a7ba22a6cfa1ffbf97ceebd32ee80",
+      "bytes": 32723
+    },
+    {
+      "path": "data/research/product-image-repairs.json",
+      "sha256": "bfbc1fde2488de01d1882b5f09146e0e5ff6289a03e905f4f3d905647c6406b1",
+      "bytes": 2658
+    },
+    {
+      "path": "data/research/smartphone-image-sources.json",
+      "sha256": "fbeb9c22a7bfdf35b6d167d3b47b7bec93f754763bba261d835f59c72b723117",
+      "bytes": 3137
+    },
+    {
+      "path": "data/research/smartphones-2026-09-09.json",
+      "sha256": "bd2556becd2e11dbc871013b6fe8789bda437322164fad92cf4aca1432c25b4f",
+      "bytes": 39858
+    },
+    {
+      "path": "data/research/vr-headsets-2026-09-10.json",
+      "sha256": "14f0c60a98ed57d57503e50e2c8abd4972fb8efaaf9da4c49c70ed311e88df12",
+      "bytes": 29701
+    },
+    {
+      "path": "data/research/wearables-2026-09-10.json",
+      "sha256": "7537481f0c27f397678bd17d5e839a1cf0fd97908d44f7bb1d31ef63860db9d1",
+      "bytes": 36668
+    },
+    {
+      "path": "db/index.ts",
+      "sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
+      "bytes": 423
+    },
+    {
+      "path": "db/schema.ts",
+      "sha256": "71f7b81eeddac8e4b87146116eb20e2c0270fe7acfb1850de5c7ea08bbc47562",
+      "bytes": 11999
+    },
+    {
+      "path": "docs/WEEKLY-RESEARCH.md",
+      "sha256": "4e23ce7de14fa645993cbc0bd29b2341a73cf39ee789b1415482f544bea51eeb",
+      "bytes": 3697
+    },
+    {
+      "path": "docs/commerce-offers.md",
+      "sha256": "9b1ba831bbf0f5b408074470005659b94ee3a4587b414a31e4440fb4c4170e79",
+      "bytes": 2163
+    },
+    {
+      "path": "docs/decision-analytics-seo.md",
+      "sha256": "dc565c708893571d65238b85d2d91ca1cf3fed22188ade5e4b74d7081575e9d7",
+      "bytes": 1453
+    },
+    {
+      "path": "docs/release-1-baseline.md",
+      "sha256": "3bb1dff34d43beefb1c8b4b95ddc93cb2e44a7d6c5c83a742b0f0ca2c6d19a89",
+      "bytes": 3671
+    },
+    {
+      "path": "docs/release-2-decision-experience.md",
+      "sha256": "1f59b4f56182e2340465f4080843cfeff365162f70448172466c1f61fe4777d3",
+      "bytes": 3222
+    },
+    {
+      "path": "docs/release-22-smartphones-research.md",
+      "sha256": "c3a19f622cf8d14c90b477876d7eb89cc2f6cf2c7554d2da721b8a60b11f4692",
+      "bytes": 2716
+    },
+    {
+      "path": "docs/release-24-four-category-expansion.md",
+      "sha256": "a9c66c8de5a2ed5e0e43601a606c051bb4c53fe61241fbfc300ab9f2180c30b9",
+      "bytes": 1991
+    },
+    {
+      "path": "docs/release-24-remaining-categories-research.md",
+      "sha256": "f39d1baa46f633b1dfb1e972b0a65e57313ff03e5a99270e5e8a513b632c9d67",
+      "bytes": 11077
+    },
+    {
+      "path": "docs/release-26-qa-stabilization.md",
+      "sha256": "f9fd90e931d14e747ecc762329a98696a68143183a0860314f1ca8a9e7a2b09f",
+      "bytes": 3785
+    },
+    {
+      "path": "docs/release-27-category-carousel.md",
+      "sha256": "4e9060d996a467f9fc1b660cc331e106633ed6a55bbfc5c88651985d823def40",
+      "bytes": 1005
+    },
+    {
+      "path": "docs/release-31-winner-indicator.md",
+      "sha256": "7d88aa9fa861e54284c4a8410ed0c58dcdc44e79fb9caf42daddc6d8026017b6",
+      "bytes": 2530
+    },
+    {
+      "path": "docs/release-32-comparison-selector.md",
+      "sha256": "56d57600966d61eb1e6ded8577475f2a230038f28f53e3e2d483bf31851394b8",
+      "bytes": 1463
+    },
+    {
+      "path": "docs/release-33-mobile-comparisons.md",
+      "sha256": "ce4979f123063dc69fe10094d96cf508908e3775454706efaee3ffce1783a2d6",
+      "bytes": 1296
+    },
+    {
+      "path": "docs/release-34-comparison-specifications.md",
+      "sha256": "11d3fb18ee6557f0ddd5092ff1fd6ba587c5b3cbdb76b0de93598a614f9959b3",
+      "bytes": 2105
+    },
+    {
+      "path": "docs/release-35-finder-and-offers.md",
+      "sha256": "22b76ce634044a699dad7603734d595f369e06ab05f4cf576a72cece4dbec2ee",
+      "bytes": 4163
+    },
+    {
+      "path": "docs/release-36-guides-analytics.md",
+      "sha256": "468b05413af29426f2e0f157b49b824e1f1014288f12aa4b21b20b33f0ce7ea9",
+      "bytes": 1054
+    },
+    {
+      "path": "docs/release-38-code-cleanup.md",
+      "sha256": "60d627ef2438c74ceb05ae4dd826148f5f6c6161c785e0ebb59de70299fc90ed",
+      "bytes": 2025
+    },
+    {
+      "path": "docs/release-39-rankings.md",
+      "sha256": "7e73a72b6abb2d78ced23fd86c1a7746912866467291dc5080dab8cf1c957f95",
+      "bytes": 1298
+    },
+    {
+      "path": "docs/release-40-trust-and-commerce-readiness.md",
+      "sha256": "37fa44f11f33ef2aaf9edb9bbddd6ddbc20049489ef4dcfb325ac1ee7b79569c",
+      "bytes": 2874
+    },
+    {
+      "path": "drizzle.config.ts",
+      "sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
+      "bytes": 148
+    },
+    {
+      "path": "drizzle/0000_kind_the_fury.sql",
+      "sha256": "0d02c8f07f1986016e26a2878b2c5d38d58af58948f3e368a09a1b660a648d58",
+      "bytes": 398
+    },
+    {
+      "path": "drizzle/0001_square_carnage.sql",
+      "sha256": "0766ab81f39fb21883b6ba583e31045c4d13b47399e0884d32a4a44c5713291d",
+      "bytes": 1639
+    },
+    {
+      "path": "drizzle/0002_silly_titania.sql",
+      "sha256": "998e3ecf66468c8384b49ec4c29c0b7dcd8aa861573475d2b1d56764c0a77831",
+      "bytes": 923
+    },
+    {
+      "path": "drizzle/0003_reflective_hairball.sql",
+      "sha256": "9bea3bac3bfd89ddf07873a02440de51af40ac5401500b342fa6377c4cd17633",
+      "bytes": 1148
+    },
+    {
+      "path": "drizzle/0004_naive_beast.sql",
+      "sha256": "a2cd2ff5229cb2f27bdb20ca06bfe82ccd44a7eade6f43f005fb4209024a2be5",
+      "bytes": 1032
+    },
+    {
+      "path": "drizzle/0005_majestic_hulk.sql",
+      "sha256": "b9c5ac6314777a83f4cef3e4b8941eed636894c5180813bd1fbe461bf0f6b139",
+      "bytes": 1065
+    },
+    {
+      "path": "drizzle/0006_zippy_la_nuit.sql",
+      "sha256": "ee97af89362666037f6050108648402a688e76fbdf0e4b41f962912a970f70b5",
+      "bytes": 3342
+    },
+    {
+      "path": "drizzle/0007_calm_shatterstar.sql",
+      "sha256": "931bfc15d247f547d20e426b490e35803aefc5c9258ba0a3be89815551322311",
+      "bytes": 594
+    },
+    {
+      "path": "drizzle/0008_chubby_lenny_balinger.sql",
+      "sha256": "792f3783dae0797dc06a2774fb88b71e925ff1750a540b82ca1529967d2b624b",
+      "bytes": 480
+    },
+    {
+      "path": "drizzle/0009_high_network.sql",
+      "sha256": "6d386de03e6a910083f405c6c78d8b89d3c10de9f72cc1a971ce2f4481b82ee1",
+      "bytes": 266
+    },
+    {
+      "path": "drizzle/0010_approved_smartphone_launch.sql",
+      "sha256": "b611cbc35785a30877042fa98cd8f301e585b86515a7d20067e96a3d34133404",
+      "bytes": 600604
+    },
+    {
+      "path": "drizzle/meta/0000_snapshot.json",
+      "sha256": "4bb083ac8c4e72455caf956488172ebc6c5796a5a810c507da07bbe3d3fa0a27",
+      "bytes": 1928
+    },
+    {
+      "path": "drizzle/meta/0001_snapshot.json",
+      "sha256": "47ad289727598c3feba54fca6702e8df3626927e4f210fd643e05e533813f58d",
+      "bytes": 9182
+    },
+    {
+      "path": "drizzle/meta/0002_snapshot.json",
+      "sha256": "5edac5a15ed90540b2f0e2d136a71c58330ab024641ffc9ed8994476e731473c",
+      "bytes": 12525
+    },
+    {
+      "path": "drizzle/meta/0003_snapshot.json",
+      "sha256": "77820344886a135195d893df426ea8674ee3a454d99adc9e7b033d31271f8eda",
+      "bytes": 14997
+    },
+    {
+      "path": "drizzle/meta/0004_snapshot.json",
+      "sha256": "e8551e5f212ab1f2ccf4f6807574e86d5954bbe80edf178c2d0356b4f4d14bd4",
+      "bytes": 17920
+    },
+    {
+      "path": "drizzle/meta/0005_snapshot.json",
+      "sha256": "6797ce33698e81ea703b512517f8b7255d3668518ff1fefc5d2ebc3ea623a989",
+      "bytes": 20651
+    },
+    {
+      "path": "drizzle/meta/0006_snapshot.json",
+      "sha256": "4a26f3a78fe70d2ec392caf6ddd92667a34d2464f93523e573ec081de907f014",
+      "bytes": 34120
+    },
+    {
+      "path": "drizzle/meta/0007_snapshot.json",
+      "sha256": "d3cde7a6ef62076d0d6976f2f7d1a137eff352af2243dbb07be4acfeafd9b9aa",
+      "bytes": 36578
+    },
+    {
+      "path": "drizzle/meta/0008_snapshot.json",
+      "sha256": "a0070fd31a2aeaa13af5dbbb3caa730f5f1bf3f08b6888c0d327a94b23985c36",
+      "bytes": 39086
+    },
+    {
+      "path": "drizzle/meta/0009_snapshot.json",
+      "sha256": "284ffa85f709282334e86a2cbb59a27ed304281d8db9a9498337f73b7500b731",
+      "bytes": 40249
+    },
+    {
+      "path": "drizzle/meta/0010_snapshot.json",
+      "sha256": "a43c116d0f9f79985aad7b6ac57727c8b93c82e52a542c0bef33cea70f62dd72",
+      "bytes": 40249
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "sha256": "5369f100c0fcb348571741a298d7199a62d39e54c2b05f6be3c9d26a672d2c87",
+      "bytes": 1643
+    },
+    {
+      "path": "eslint.config.mjs",
+      "sha256": "f22a254df7d934bbf9be499d3c969a13abb7f7f64c03f5967d0095cad81dfe06",
+      "bytes": 846
+    },
+    {
+      "path": "examples/d1/app/api/notes/route.ts",
+      "sha256": "a3d4a74fd53b7bf53e2df41f169d9d9d44a8b22aeb6d92f4e754956079af8909",
+      "bytes": 1700
+    },
+    {
+      "path": "examples/d1/db/schema.ts",
+      "sha256": "d89eabd95716ce404f5f7ca2a254220435be8ddce7c899d7ef461ff22ec80454",
+      "bytes": 370
+    },
+    {
+      "path": "hooks/use-comparison-preset.ts",
+      "sha256": "f6f4f94fb910b1248e696b9b3fd462e27cd62e5d961195843a82d8c245a97fa8",
+      "bytes": 887
+    },
+    {
+      "path": "hooks/use-mobile.ts",
+      "sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b",
+      "bytes": 565
+    },
+    {
+      "path": "lib/admin-auth.ts",
+      "sha256": "ed5a36f06247432a776a265b4302a0a8cba715ab0c5d620c102c62c2d3335b12",
+      "bytes": 1387
+    },
+    {
+      "path": "lib/agents/README.md",
+      "sha256": "27959feb1cedf9f2ee2e94e34e7fd9d4228a515ec6c819d4651f91fb94efbae1",
+      "bytes": 1088
+    },
+    {
+      "path": "lib/agents/product-ingestion.ts",
+      "sha256": "78a4a02012681e075de443cfd1823f49120f498fe714b3e64060441752b11f1c",
+      "bytes": 11225
+    },
+    {
+      "path": "lib/analytics-client.ts",
+      "sha256": "ec8edde54130fdae95f35cb5c9d4a2e28843a30943d8023f66ae332b67d7663f",
+      "bytes": 928
+    },
+    {
+      "path": "lib/analytics-events.ts",
+      "sha256": "c073d8f918319248da9717cb2a767f2d51f825453acd4e3314156917de38923f",
+      "bytes": 2621
+    },
+    {
+      "path": "lib/bundled-research.ts",
+      "sha256": "fce20bff60d1abde16c92b7fb99b809c3659703f888967691653b854ec7d4c9b",
+      "bytes": 730
+    },
+    {
+      "path": "lib/buying-guides.ts",
+      "sha256": "b364d7007109228a0bc592a870ff4d64525654e257b9b86f52ee32fe7a2fc2c5",
+      "bytes": 7140
+    },
+    {
+      "path": "lib/categories.ts",
+      "sha256": "ff7012358aea95b68954ef209dddf7f549e150fc013f497772bf9f727054642f",
+      "bytes": 3865
+    },
+    {
+      "path": "lib/commerce-readiness.ts",
+      "sha256": "4ec9f9dd2ca513d9d69134aaa118eb6182ab997742126933d4ed4e3473261ed5",
+      "bytes": 1802
+    },
+    {
+      "path": "lib/comparison-batch.ts",
+      "sha256": "4e59a3848083f0ac5f45a5fa6a6b8fcfb4a59bb535af02c8e9fa8a586f22fd10",
+      "bytes": 1884
+    },
+    {
+      "path": "lib/comparison-discovery.ts",
+      "sha256": "0a77476a032df49e2b199cc9ce63de59a8f85234a45675365b9841f7a253c609",
+      "bytes": 2630
+    },
+    {
+      "path": "lib/comparison-pair.ts",
+      "sha256": "e6ae7101ec372cfe406528d8ae54164c89a53df4307c032dc3f261139aad0864",
+      "bytes": 221
+    },
+    {
+      "path": "lib/comparison-workflow.ts",
+      "sha256": "af4eec305dcc7f47ca17d45b19ca189427773a7d78db8b5b304162c956e1f49f",
+      "bytes": 2387
+    },
+    {
+      "path": "lib/csv-product-import.ts",
+      "sha256": "44794eb721054e972c30427542715d66dddf791fef3f3d894495fee4a17fe28e",
+      "bytes": 6181
+    },
+    {
+      "path": "lib/extended-category-queries.ts",
+      "sha256": "a524d902cc805b1d6a9db1f28f662613e6e592b295dfff9105a781d03dfd1db9",
+      "bytes": 1463
+    },
+    {
+      "path": "lib/extended-category-specs.ts",
+      "sha256": "a12823dea46ca4b29783f15a91b86fb884b9e6e70834d75572eb97457044b77a",
+      "bytes": 21465
+    },
+    {
+      "path": "lib/headphone-specs.ts",
+      "sha256": "137dcd64b1b8af2dde1028111dc96a2f065372f63e9822890440d6f1d72ce13d",
+      "bytes": 28082
+    },
+    {
+      "path": "lib/headphones-starter.ts",
+      "sha256": "67b67cb593c929e177fd0602e2652df32dcd14c01d8c90dd56100fa93b66b273",
+      "bytes": 735
+    },
+    {
+      "path": "lib/launch-catalog.ts",
+      "sha256": "ddaa0a016b1d19d568d2333a4279caac3000c01671a5112fadd87fc9b871efc9",
+      "bytes": 10918
+    },
+    {
+      "path": "lib/launch-plan.ts",
+      "sha256": "921927344fa62a9bb305edcb604888516e604a521c17355eebb3616fde0862cc",
+      "bytes": 4289
+    },
+    {
+      "path": "lib/offer-csv.ts",
+      "sha256": "7059a6b3a17e8bc875080a0f50796ac1f5c66b713df4cb86e511a782a335580e",
+      "bytes": 2206
+    },
+    {
+      "path": "lib/offer-input.ts",
+      "sha256": "4ca40f8cc553b7a50c043ff4bbd6bb8f4d3a040b2cf02c7e3d1854c3b8686001",
+      "bytes": 2429
+    },
+    {
+      "path": "lib/offer-queries.ts",
+      "sha256": "5a869a8d56894c3ea8b27b6b7e4939307b40e735bec1d4a0fb0e64d7333259d6",
+      "bytes": 2055
+    },
+    {
+      "path": "lib/offer-store.ts",
+      "sha256": "c5542f3b4700514e859685be5a1a982f0ccde52160f558cabcf8ba9169aabf30",
+      "bytes": 3738
+    },
+    {
+      "path": "lib/offers.ts",
+      "sha256": "ed717f7b82f4ed8d0fe34b20605f1fa429df43b975ed8a7ca03fdb938434e69c",
+      "bytes": 4473
+    },
+    {
+      "path": "lib/pricing-provider.ts",
+      "sha256": "2ffadd8482d4021f36452a4d284f4b1aa3e5f335e8ffa81d221852b7364fccb1",
+      "bytes": 2116
+    },
+    {
+      "path": "lib/product-finder.ts",
+      "sha256": "0f46e2722fb635e81bb70fb89f9548c16d71c5319f9eee380f4c7420430f6cfc",
+      "bytes": 8963
+    },
+    {
+      "path": "lib/product-image.ts",
+      "sha256": "03d1c67a43b16db75b1031ad9a179b91b5d035c56938554fa0a97c50f7949da8",
+      "bytes": 828
+    },
+    {
+      "path": "lib/products.ts",
+      "sha256": "1933c7b911286352b867f9c61f938aa5193b96269766be3abcd7c4910af9f396",
+      "bytes": 6428
+    },
+    {
+      "path": "lib/related-comparisons.ts",
+      "sha256": "9699d1b8b5c8e3e0b9e7859a5653e240702cf4bb3cd1752083b1ec4e3e299829",
+      "bytes": 1632
+    },
+    {
+      "path": "lib/research-contract.ts",
+      "sha256": "7e0f2a709c8c02998e79fbeee5e85b8ea3d75d04354e68491c8d70b49de0c21a",
+      "bytes": 7972
+    },
+    {
+      "path": "lib/research-store.ts",
+      "sha256": "0569ed106436743300b07ec31ebda33c01c107d2f6f44dd7d6ca20fa8c81c468",
+      "bytes": 8505
+    },
+    {
+      "path": "lib/seo.ts",
+      "sha256": "5f8471df056a9afc876d8f9ba33e8a7bfa29cad095d01ac9b641ce01c6ca122c",
+      "bytes": 4159
+    },
+    {
+      "path": "lib/site-hostname.ts",
+      "sha256": "db4474d9048482f09826d6d37e5540d130a4b70b1cc5738bf12b23e7602a65cf",
+      "bytes": 213
+    },
+    {
+      "path": "lib/smartphone-queries.ts",
+      "sha256": "0402fb21933d7bcf2d3afb848813d2828c7a70cecd161e47d93e986bd1206a81",
+      "bytes": 1218
+    },
+    {
+      "path": "lib/smartphone-specs.ts",
+      "sha256": "abbc820663800b86c45a40461b3d92f038e8acbd5a29062011b32895a867ba52",
+      "bytes": 8810
+    },
+    {
+      "path": "lib/utils.ts",
+      "sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68",
+      "bytes": 177
+    },
+    {
+      "path": "lib/verdicts.ts",
+      "sha256": "b6b71af00f172959d0d46b1bf14214d29582d8e3c71c265715f6a79b4e1762c2",
+      "bytes": 6896
+    },
+    {
+      "path": "lib/vote-contract.ts",
+      "sha256": "d5abece54768bdd615ce525477f684d750297af1653b7fca94d6220b6406e12c",
+      "bytes": 2154
+    },
+    {
+      "path": "lib/vote-security.ts",
+      "sha256": "fbe81beb69af148fc327682898e27f18282ad69acd35f9c9aa14a463fb2d0892",
+      "bytes": 3673
+    },
+    {
+      "path": "lib/winner-indicator.ts",
+      "sha256": "ec6529382c6d539c8fc30d09587910cb98239c9cf83b164d3087d715516e0739",
+      "bytes": 873
+    },
+    {
+      "path": "next.config.ts",
+      "sha256": "0232aa34461ba4408fb0f292b4596b7eb3c560e9833ad46a89e8b7b5703d335c",
+      "bytes": 138
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "920d21ca287ce8911f9fb9089c2a388d0fcd45ca6a397af13f33787d5c6800a5",
+      "bytes": 498254
+    },
+    {
+      "path": "package.json",
+      "sha256": "a40d92ccb4cfbe9e74755b4f6e95b842e7f5771aceab722739b6b9dcf4d5d929",
+      "bytes": 1911
+    },
+    {
+      "path": "postcss.config.mjs",
+      "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde",
+      "bytes": 94
+    },
+    {
+      "path": "public/compare-speakers.png",
+      "sha256": "8654c5397cd1017f7830f08bc2da7894be290a851eb71c73963c30ea49a64577",
+      "bytes": 1846051
+    },
+    {
+      "path": "public/favicon.svg",
+      "sha256": "1276cf33548628be6d3ae52d81a5a2a63b6e170644e87098e71a2f27b4bcec97",
+      "bytes": 294
+    },
+    {
+      "path": "public/file.svg",
+      "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307",
+      "bytes": 392
+    },
+    {
+      "path": "public/globe.svg",
+      "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9",
+      "bytes": 1036
+    },
+    {
+      "path": "public/products/category-game-consoles-2026.jpg",
+      "sha256": "8bccc567c3ee49c487e1a701fce2fe85cd4ab2cb2ea61079e2690bcb888524b7",
+      "bytes": 315162
+    },
+    {
+      "path": "public/products/category-headphones-2026.jpg",
+      "sha256": "afdad4b22803855143eeeddba2775c719997776263d6c0e692e374f774701ea2",
+      "bytes": 72901
+    },
+    {
+      "path": "public/products/category-portable-speakers-2026.jpg",
+      "sha256": "276b3e5626ce26aae02fd0e2d1441319fe38417e2798cfc720715f301c2e8103",
+      "bytes": 582703
+    },
+    {
+      "path": "public/products/category-smartphones-2026.jpg",
+      "sha256": "dbceba1561985c9096b5b50dc6fc355b53110fb8b13bdcd7242957f8f5d75249",
+      "bytes": 61624
+    },
+    {
+      "path": "public/products/category-vr-headsets-2026.jpg",
+      "sha256": "1b95a68b4b08a3f1ae89fa3d4a4cb03dd19dd24d41eee24c18b339360bb63f70",
+      "bytes": 150376
+    },
+    {
+      "path": "public/products/category-wearables-2026.jpg",
+      "sha256": "002c89cbf710df6c2aed18ae615da2617a3257088d815753bfc622540187687d",
+      "bytes": 212958
+    },
+    {
+      "path": "public/products/game-consoles.jpg",
+      "sha256": "aa4859071ffccf1cb8e1d8dc3dc982e179dbf95ec38de2a77a349950ecbd1e36",
+      "bytes": 44466
+    },
+    {
+      "path": "public/products/headphones.jpg",
+      "sha256": "7c04548d979b1ccbc0359e97dae379e52fff897a74a6f15732d97889a8356b7c",
+      "bytes": 200575
+    },
+    {
+      "path": "public/products/phones/galaxy-s26-plus.jpg",
+      "sha256": "c563e90c8556aa2212bae1c16a9a3e360c5799ea4f462c543edc3acec1a2a3fa",
+      "bytes": 22009
+    },
+    {
+      "path": "public/products/phones/galaxy-s26-ultra.jpg",
+      "sha256": "7d389e80ef824953e0db62ef9e90472e64729b0d8e4493e2251a6d1ea84caa41",
+      "bytes": 25748
+    },
+    {
+      "path": "public/products/phones/galaxy-s26.jpg",
+      "sha256": "d67e0ec2b22b12e02da72ba7de9f4b3f21cccdd8ecf2433bb8290a9421852ef4",
+      "bytes": 21655
+    },
+    {
+      "path": "public/products/phones/iphone-17-pro-max.jpg",
+      "sha256": "00b41a6146964446e0e0c3be591803f124840ddd8a2f76952145bb84530f9313",
+      "bytes": 78113
+    },
+    {
+      "path": "public/products/phones/iphone-17-pro.jpg",
+      "sha256": "a9c809af63a2111fd96b2463942020711a9ae58a10242f5bda41907a7cbc0d76",
+      "bytes": 56755
+    },
+    {
+      "path": "public/products/phones/iphone-17.jpg",
+      "sha256": "2ced7489956aade0172153854c2f887c457045cf2fc754c8acc74938ed0c7331",
+      "bytes": 48429
+    },
+    {
+      "path": "public/products/phones/iphone-air.jpg",
+      "sha256": "c2afb0ea93bee950a88d30b01329e373ed40af271f8195daf4a8ef2efdaece2b",
+      "bytes": 40073
+    },
+    {
+      "path": "public/products/phones/pixel-10-pro-xl.png",
+      "sha256": "58d44173cd380c59486af6987d6cb8d35e033f63149ee98ff3ff130cbdabc4d9",
+      "bytes": 148004
+    },
+    {
+      "path": "public/products/phones/pixel-10-pro.png",
+      "sha256": "176e5e782bf314d3821618781bc2c5a896143291a7df929abdb937c77648de46",
+      "bytes": 139529
+    },
+    {
+      "path": "public/products/phones/pixel-10.png",
+      "sha256": "cc3ad21eecec07e401e8f3cdf6124f8c5e3e1c218e33700137afc7eecec9cb9b",
+      "bytes": 143795
+    },
+    {
+      "path": "public/products/portable-speakers.jpg",
+      "sha256": "cc88626262571134fb13709adb800f83b901773e51e4cef66e080788c21e8e40",
+      "bytes": 165874
+    },
+    {
+      "path": "public/products/qa-fitbit-air.jpg",
+      "sha256": "17648a89625e81d87070b93dd58fc00e6b8f9ce286885337939185df41215d20",
+      "bytes": 47921
+    },
+    {
+      "path": "public/products/qa-jbl-go-5.png",
+      "sha256": "c46cd9c02c63d68a5da6b7f7aa7161362a0cd345c380612890474cb32f58b9c3",
+      "bytes": 476124
+    },
+    {
+      "path": "public/products/qa-jbl-xtreme-5.png",
+      "sha256": "59a9dad3448321347f1003ddf4d29108e048c1aae9620d15cb7f1ebb4e9466dc",
+      "bytes": 229638
+    },
+    {
+      "path": "public/products/qa-marshall-kilburn-iii.jpg",
+      "sha256": "a7e1d0d35915acd746880e34392a63e0a14c2c4fd515e63a43edddf37119c992",
+      "bytes": 71438
+    },
+    {
+      "path": "public/products/qa-nintendo-switch-2.png",
+      "sha256": "1530ceefbc900c65d585554c1ec9fa269e540fbcc2eff70d25b7227c76b995e1",
+      "bytes": 651852
+    },
+    {
+      "path": "public/products/qa-ps5-slim-disc.jpg",
+      "sha256": "4f2fc02c730603974bf0374a13e2472130845ead7239aa44a48af663dab3e8c7",
+      "bytes": 7377
+    },
+    {
+      "path": "public/products/qa-ringconn-gen-2-air.png",
+      "sha256": "e949d5b96d1e58c63af713ceb2c4167c1d658d6a4e274ecfa40a4f1162828b45",
+      "bytes": 131141
+    },
+    {
+      "path": "public/products/qa-vive-xr-elite.png",
+      "sha256": "10a9182f60e089ad11211111cf4622220e457c6d793f682d5c301cef228692db",
+      "bytes": 119900
+    },
+    {
+      "path": "public/products/qa-whoop-mg.webp",
+      "sha256": "3ac2568187c66af46260f46fc3c903e3df256458188ad65d88382d29a616d9e2",
+      "bytes": 43130
+    },
+    {
+      "path": "public/products/smartphones.jpg",
+      "sha256": "49777c22a34c31802e2f3bf95bc267c20ddb040ce704016f7dfc03561aec1174",
+      "bytes": 163117
+    },
+    {
+      "path": "public/products/vr-headsets.jpg",
+      "sha256": "dbd97fa3000a9f875bb1ef1c9790d952be2839ee5bb9e423a4a9b9638eae71aa",
+      "bytes": 90824
+    },
+    {
+      "path": "public/products/wearables.jpg",
+      "sha256": "9e71ab538f6031453d846fce5663d00f89892c467e95b5d5bfc336896e73bf74",
+      "bytes": 134343
+    },
+    {
+      "path": "public/templates/headphones-product-import.csv",
+      "sha256": "df12d9834f1d9751005c96fdf9f448b3886163d54daf6d96c28a4b32b2d90b64",
+      "bytes": 395
+    },
+    {
+      "path": "public/window.svg",
+      "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66",
+      "bytes": 386
+    },
+    {
+      "path": "raw-imports.d.ts",
+      "sha256": "fc9c563cdef274837bf28d3dfff02b13ce3d19c84830b4b6c088c32c33ddb13e",
+      "bytes": 78
+    },
+    {
+      "path": "scripts/build-verified.sh",
+      "sha256": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68",
+      "bytes": 661
+    },
+    {
+      "path": "scripts/check-finder-equivalence.mjs",
+      "sha256": "511944d035fc9c0053a4ffe86f89d9c7cddbe35fca7778b2065499324ed7bc77",
+      "bytes": 3247
+    },
+    {
+      "path": "scripts/install-ci.sh",
+      "sha256": "f63e840679ca885f206d17b7f8285199bb6bcd47ebc360008d04d16b8e54f63c",
+      "bytes": 6326
+    },
+    {
+      "path": "scripts/sites-env.sh",
+      "sha256": "df86ebfc27d2f00860036658e933ac0ddd7b5f6879aa5d51218f0863c7e1fb60",
+      "bytes": 1530
+    },
+    {
+      "path": "tests/analytics-seo.test.mjs",
+      "sha256": "13c79603526cd4432b2777a9ee36a09ce6d4344764b37e4fe8d43c4ef5adddb1",
+      "bytes": 3273
+    },
+    {
+      "path": "tests/commerce-offers.test.mjs",
+      "sha256": "dd7870c96cb34b28d279e5096686d97c509fc554f5f27834582cb85a09d52f46",
+      "bytes": 5751
+    },
+    {
+      "path": "tests/extended-category-stability.test.mjs",
+      "sha256": "d0565c856ab68e36aad8953ad2ec9ee692f0bddf34c0645fb44c5b473b46beec",
+      "bytes": 4510
+    },
+    {
+      "path": "tests/fixtures/top-10-headphones.csv",
+      "sha256": "f85b463587a027b69e79d604df1bcfe817a0e4452f191357168d141fba20a791",
+      "bytes": 9670
+    },
+    {
+      "path": "tests/headphone-import-and-batch.test.mjs",
+      "sha256": "2dfd3540911b7107c267f07adedb0eed2913096456821243145215676a5784d4",
+      "bytes": 5008
+    },
+    {
+      "path": "tests/headphone-trust.test.mjs",
+      "sha256": "2490d5d3eda91543b4051014921c50bbc5a69051d7f4be60f4752140c351461b",
+      "bytes": 8438
+    },
+    {
+      "path": "tests/remaining-categories-research.test.mjs",
+      "sha256": "c8cafc89d87c3e5340bc1e451f526e0c5fd160b4fca6b3060f998d1d65f476ea",
+      "bytes": 2877
+    },
+    {
+      "path": "tests/rendered-html.test.mjs",
+      "sha256": "4bcf9e12a970d2de54ad874c62a5cb0a34e12d8080098dd5a25750ab77570d53",
+      "bytes": 22206
+    },
+    {
+      "path": "tests/research-pipeline.test.mjs",
+      "sha256": "66c3b55f7eda0bea3e5ce3a56b3e838da3c15e1f1b4eb8a7ae2e0a6db4735c79",
+      "bytes": 7134
+    },
+    {
+      "path": "tests/smartphone-release-migration.test.mjs",
+      "sha256": "0115e4500b884bd1b25b26781fefde7813d0f3a4fa013e803cebc166693616d7",
+      "bytes": 2105
+    },
+    {
+      "path": "tests/ui-components.test.mjs",
+      "sha256": "08e681a25fe202a00d7d9e790804e4dc115a8a9388bb47a2c2e0211ec810fb02",
+      "bytes": 2840
+    },
+    {
+      "path": "tests/voting-security.test.mjs",
+      "sha256": "6b12fbf84340696e655f4bdf930d0f5364ce616edf0557b8412dcb3be25ae9fd",
+      "bytes": 3136
+    },
+    {
+      "path": "tests/winner-indicator.test.mjs",
+      "sha256": "db08ef1e5ca9662633ef868e993ac1e21f118ed17625c79e06d6f25a95096bb8",
+      "bytes": 5255
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "be18523b23b78b6e1a876ddd107d330f0168bddf09d751b57e0b5edce69c66f3",
+      "bytes": 666
+    },
+    {
+      "path": "vendor/shadcn-tailwind-4.13.0.LICENSE.md",
+      "sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f",
+      "bytes": 1063
+    },
+    {
+      "path": "vendor/shadcn-tailwind-4.13.0.css",
+      "sha256": "bc7d83425702955b4cb67cb14ede9d603f9d912376d57a2d81d661094d2a782a",
+      "bytes": 16041
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "43e5f02f727ca043f08ebf34789f330580a7a0cb90f426c92f4a454d066988fc",
+      "bytes": 1807
+    },
+    {
+      "path": "worker/index.ts",
+      "sha256": "78bcd4569d33174101b1fb729e105fce9545e93ec4a41e37119c2dc8ac72b30b",
+      "bytes": 2649
+    }
+  ]
+}

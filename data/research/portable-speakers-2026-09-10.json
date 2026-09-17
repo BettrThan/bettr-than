@@ -1,0 +1,738 @@
+{
+  "id": "portable-speakers-2026-09-10",
+  "title": "Portable speakers deep research: 10 products",
+  "category": "portable-speakers",
+  "researchedAt": "2026-09-10T00:00:00Z",
+  "products": [
+    {
+      "slug": "jbl-charge-6",
+      "canonicalName": "JBL Charge 6",
+      "brand": "JBL",
+      "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+      "imageUrl": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw31879f3e/LS_JBL_CHARGE_6_BLACK_HERO_071_x1.png?sh=1600&sw=1600",
+      "description": "JBL Charge 6 portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 199.95,
+        "battery_hours": 28,
+        "weight_grams": 1370,
+        "ip_rating": "IP68",
+        "durability_score": 5,
+        "bluetooth_version": "5.4",
+        "powerbank": true,
+        "usb_audio": true,
+        "auracast": true,
+        "floats": false,
+        "speakerphone": false
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/CHARGE-6.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "jbl-flip-7",
+      "canonicalName": "JBL Flip 7",
+      "brand": "JBL",
+      "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+      "imageUrl": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6243211a/JBL_FLIP_7_HERO_BLACK_060_x2.png?sh=1600&sw=1600",
+      "description": "JBL Flip 7 portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 149.95,
+        "battery_hours": 16,
+        "weight_grams": 560,
+        "ip_rating": "IP68",
+        "durability_score": 5,
+        "bluetooth_version": "5.4",
+        "powerbank": false,
+        "usb_audio": true,
+        "auracast": true,
+        "floats": false,
+        "speakerphone": false
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/FLIP-7.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "jbl-go-5",
+      "canonicalName": "JBL Go 5",
+      "brand": "JBL",
+      "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+      "imageUrl": null,
+      "description": "JBL Go 5 portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 59.95,
+        "battery_hours": 12,
+        "weight_grams": 300,
+        "ip_rating": "IP68",
+        "durability_score": 5,
+        "bluetooth_version": "5.4",
+        "powerbank": false,
+        "usb_audio": false,
+        "auracast": true,
+        "floats": false,
+        "speakerphone": false
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/GO-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "jbl-xtreme-5",
+      "canonicalName": "JBL Xtreme 5",
+      "brand": "JBL",
+      "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+      "imageUrl": null,
+      "description": "JBL Xtreme 5 portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 399.95,
+        "battery_hours": 28,
+        "weight_grams": 2100,
+        "ip_rating": "IP68",
+        "durability_score": 5,
+        "bluetooth_version": "5.4",
+        "powerbank": true,
+        "usb_audio": true,
+        "auracast": true,
+        "floats": false,
+        "speakerphone": false
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.jbl.com/bluetooth-speakers/XTREME-5.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "bose-soundlink-max",
+      "canonicalName": "Bose SoundLink Max Portable Speaker",
+      "brand": "Bose",
+      "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+      "imageUrl": "https://assets.bosecreative.com/transform/4460a5bb-35b7-4530-9713-aef64b9cc48e/sf_pdp_SLMPS_gallery_blue_600x450_x2-1?io=width%3A816%2Cheight%3A667%2Ctransform%3Afit&quality=90",
+      "description": "Bose SoundLink Max Portable Speaker portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 399,
+        "battery_hours": 20,
+        "weight_grams": 2130,
+        "ip_rating": "IP67",
+        "durability_score": 4,
+        "bluetooth_version": "5.3",
+        "powerbank": true,
+        "usb_audio": false,
+        "auracast": false,
+        "floats": false,
+        "speakerphone": false
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "bose-soundlink-flex-2",
+      "canonicalName": "Bose SoundLink Flex Portable Speaker (2nd Gen)",
+      "brand": "Bose",
+      "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+      "imageUrl": "https://assets.bosecreative.com/transform/f555c350-f979-4e8b-a161-009bb54bc1d8/FY27_SLFLXIILE27-DewdropMint_PDP_EcomGal1_Silo_1500x1120?format=avif&io=width%3A816%2Cheight%3A667%2Ctransform%3Afit&quality=95",
+      "description": "Bose SoundLink Flex Portable Speaker (2nd Gen) portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 149,
+        "battery_hours": 12,
+        "weight_grams": 590,
+        "ip_rating": "IP67",
+        "durability_score": 4,
+        "bluetooth_version": "5.3",
+        "powerbank": false,
+        "usb_audio": false,
+        "auracast": false,
+        "floats": true,
+        "speakerphone": true
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "ue-everboom",
+      "canonicalName": "Ultimate Ears EVERBOOM",
+      "brand": "Ultimate Ears",
+      "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+      "imageUrl": "https://resource.ultimateears.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/ue/en/products/wireless-speakers/everboom-bluetooth/gallery/everboom-gallery-black-front.png",
+      "description": "Ultimate Ears EVERBOOM portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 249.99,
+        "battery_hours": 20,
+        "weight_grams": 960,
+        "ip_rating": "IP67",
+        "durability_score": 4,
+        "bluetooth_version": "5.2",
+        "powerbank": false,
+        "usb_audio": false,
+        "auracast": false,
+        "floats": true,
+        "speakerphone": false
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/everboom-portable-bluetooth-speaker.984-001915",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "ue-wonderboom-4",
+      "canonicalName": "Ultimate Ears WONDERBOOM 4",
+      "brand": "Ultimate Ears",
+      "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+      "imageUrl": "https://resource.ultimateears.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/ue/en/products/wireless-speakers/wonderboom-4/gallery/wonderboom4-gallery-black-front.png",
+      "description": "Ultimate Ears WONDERBOOM 4 portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 99.99,
+        "battery_hours": 14,
+        "weight_grams": 420,
+        "ip_rating": "IP67",
+        "durability_score": 4,
+        "bluetooth_version": "5.2",
+        "powerbank": false,
+        "usb_audio": false,
+        "auracast": false,
+        "floats": true,
+        "speakerphone": false
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.ultimateears.com/en-us/shop/p/wonderboom-4-bluetooth-speaker.984-001880",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "beats-pill",
+      "canonicalName": "Beats Pill",
+      "brand": "Beats",
+      "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+      "imageUrl": "https://www.beatsbydre.com/content/dam/beats/web/product/speakers/beats-pill/pdp/beats-pill-pdp-p14-5.jpg.large.2x.jpg",
+      "description": "Beats Pill portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 149.99,
+        "battery_hours": 24,
+        "weight_grams": 680,
+        "ip_rating": "IP67",
+        "durability_score": 4,
+        "bluetooth_version": "Class 1",
+        "powerbank": true,
+        "usb_audio": true,
+        "auracast": false,
+        "floats": false,
+        "speakerphone": true
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.beatsbydre.com/speakers/beats-pill",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "marshall-kilburn-iii",
+      "canonicalName": "Marshall Kilburn III",
+      "brand": "Marshall",
+      "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+      "imageUrl": null,
+      "description": "Marshall Kilburn III portable Bluetooth speaker with manufacturer-sourced battery, durability, weight, and connection specifications.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 379.99,
+        "battery_hours": 50,
+        "weight_grams": 2800,
+        "ip_rating": "IP54",
+        "durability_score": 2,
+        "bluetooth_version": "5.3",
+        "powerbank": true,
+        "usb_audio": false,
+        "auracast": false,
+        "floats": false,
+        "speakerphone": false
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "battery_hours": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ip_rating": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "durability_score": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "bluetooth_version": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "powerbank": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "usb_audio": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "auracast": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "floats": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "speakerphone": {
+          "sourceUrl": "https://www.marshall.com/us/en/product/kilburn-iii",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    }
+  ]
+}

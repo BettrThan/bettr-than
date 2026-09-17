@@ -1,0 +1,883 @@
+{
+  "id": "smartphones-2026-09-09",
+  "title": "Smartphones launch research: 10 models",
+  "category": "smartphones",
+  "researchedAt": "2026-09-09T00:00:00Z",
+  "products": [
+    {
+      "slug": "iphone-17",
+      "canonicalName": "iPhone 17",
+      "brand": "Apple",
+      "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+      "imageUrl": "https://www.bettrthan.com/products/phones/iphone-17.jpg",
+      "description": "iPhone 17 with a 6.3-inch display and 256 GB in the compared configuration.",
+      "region": "United States",
+      "configuration": "256 GB; base storage",
+      "notes": "US eSIM configuration. RAM, battery capacity and a fixed support duration are not stated on the cited specifications page. Adapter wattage is not device charging power. IP68 tested to 6 m for 30 minutes; resistance is not permanent. Optical-quality crops are not dedicated telephoto lenses.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 799,
+        "display_inches": 6.3,
+        "refresh_rate_hz": 120,
+        "weight_grams": 177,
+        "storage_gb": 256,
+        "wireless_charging": true,
+        "wireless_charging_w": 25,
+        "chipset": "Apple A19",
+        "operating_system": "iOS",
+        "water_resistance": "IP68",
+        "main_camera_mp": 48
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2025-09-09; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://www.apple.com/iphone-17/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "iphone-17-pro",
+      "canonicalName": "iPhone 17 Pro",
+      "brand": "Apple",
+      "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+      "imageUrl": "https://www.bettrthan.com/products/phones/iphone-17-pro.jpg",
+      "description": "iPhone 17 Pro with a 6.3-inch display and 256 GB in the compared configuration.",
+      "region": "United States",
+      "configuration": "256 GB; base storage",
+      "notes": "US eSIM configuration. RAM, battery capacity and a fixed support duration are not stated on the cited specifications page. Adapter wattage is not device charging power. IP68 tested to 6 m for 30 minutes; resistance is not permanent. Optical-quality crops are not dedicated telephoto lenses.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 1099,
+        "display_inches": 6.3,
+        "refresh_rate_hz": 120,
+        "weight_grams": 206,
+        "storage_gb": 256,
+        "wireless_charging": true,
+        "wireless_charging_w": 25,
+        "chipset": "Apple A19 Pro",
+        "operating_system": "iOS",
+        "water_resistance": "IP68",
+        "main_camera_mp": 48,
+        "telephoto_optical_x": 4
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.apple.com/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2025-09-09; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "telephoto_optical_x": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "iphone-17-pro-max",
+      "canonicalName": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+      "imageUrl": "https://www.bettrthan.com/products/phones/iphone-17-pro-max.jpg",
+      "description": "iPhone 17 Pro Max with a 6.9-inch display and 256 GB in the compared configuration.",
+      "region": "United States",
+      "configuration": "256 GB; base storage",
+      "notes": "US eSIM configuration. RAM, battery capacity and a fixed support duration are not stated on the cited specifications page. Adapter wattage is not device charging power. IP68 tested to 6 m for 30 minutes; resistance is not permanent. Optical-quality crops are not dedicated telephoto lenses.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 1199,
+        "display_inches": 6.9,
+        "refresh_rate_hz": 120,
+        "weight_grams": 233,
+        "storage_gb": 256,
+        "wireless_charging": true,
+        "wireless_charging_w": 25,
+        "chipset": "Apple A19 Pro",
+        "operating_system": "iOS",
+        "water_resistance": "IP68",
+        "main_camera_mp": 48,
+        "telephoto_optical_x": 4
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.apple.com/newsroom/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2025-09-09; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "telephoto_optical_x": {
+          "sourceUrl": "https://www.apple.com/iphone-17-pro/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "iphone-air",
+      "canonicalName": "iPhone Air",
+      "brand": "Apple",
+      "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+      "imageUrl": "https://www.bettrthan.com/products/phones/iphone-air.jpg",
+      "description": "iPhone Air with a 6.5-inch display and 256 GB in the compared configuration.",
+      "region": "United States",
+      "configuration": "256 GB; base storage",
+      "notes": "US eSIM configuration. RAM, battery capacity and a fixed support duration are not stated on the cited specifications page. Adapter wattage is not device charging power. IP68 tested to 6 m for 30 minutes; resistance is not permanent. Optical-quality crops are not dedicated telephoto lenses.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 999,
+        "display_inches": 6.5,
+        "refresh_rate_hz": 120,
+        "weight_grams": 165,
+        "storage_gb": 256,
+        "wireless_charging": true,
+        "wireless_charging_w": 20,
+        "chipset": "Apple A19 Pro (5-core GPU)",
+        "operating_system": "iOS",
+        "water_resistance": "IP68",
+        "main_camera_mp": 48
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2025-09-09; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://www.apple.com/iphone-air/specs/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "galaxy-s26",
+      "canonicalName": "Samsung Galaxy S26",
+      "brand": "Samsung",
+      "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+      "imageUrl": "https://www.bettrthan.com/products/phones/galaxy-s26.jpg",
+      "description": "Samsung Galaxy S26 with a 6.3-inch display and 256 GB in the compared configuration.",
+      "region": "Global specification / US reference MSRP",
+      "configuration": "256 GB; base storage",
+      "notes": "Specifications are region dependent. Base S26 weight is the Sub-6 model; US mmWave weight may differ. Launch US price shown for context. IP68: 1.5 m freshwater for 30 minutes; not permanent. Security support counted from launch.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 899.99,
+        "display_inches": 6.3,
+        "refresh_rate_hz": 120,
+        "weight_grams": 167,
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "battery_mah": 4300,
+        "wired_charging_w": 25,
+        "wireless_charging": true,
+        "wireless_charging_w": 15,
+        "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy / Exynos 2600 (market dependent)",
+        "operating_system": "Android",
+        "water_resistance": "IP68",
+        "main_camera_mp": 50,
+        "telephoto_optical_x": 3,
+        "security_support_years": 7
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://news.samsung.com/us/samsung-unveils-galaxy-s26-series-most-intuitive-galaxy-ai-phone-yet",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2026-02-25; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "ram_gb": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "battery_mah": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wired_charging_w": {
+          "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10010342/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10010342/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "telephoto_optical_x": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "security_support_years": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "galaxy-s26-plus",
+      "canonicalName": "Samsung Galaxy S26+",
+      "brand": "Samsung",
+      "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+      "imageUrl": "https://www.bettrthan.com/products/phones/galaxy-s26-plus.jpg",
+      "description": "Samsung Galaxy S26+ with a 6.7-inch display and 256 GB in the compared configuration.",
+      "region": "Global specification / US reference MSRP",
+      "configuration": "256 GB; base storage",
+      "notes": "Specifications are region dependent. Base S26 weight is the Sub-6 model; US mmWave weight may differ. Launch US price shown for context. IP68: 1.5 m freshwater for 30 minutes; not permanent. Security support counted from launch.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 1099.99,
+        "display_inches": 6.7,
+        "refresh_rate_hz": 120,
+        "weight_grams": 190,
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "battery_mah": 4900,
+        "wired_charging_w": 45,
+        "wireless_charging": true,
+        "wireless_charging_w": 20,
+        "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy / Exynos 2600 (market dependent)",
+        "operating_system": "Android",
+        "water_resistance": "IP68",
+        "main_camera_mp": 50,
+        "telephoto_optical_x": 3,
+        "security_support_years": 7
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://news.samsung.com/us/samsung-unveils-galaxy-s26-series-most-intuitive-galaxy-ai-phone-yet",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2026-02-25; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "ram_gb": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "battery_mah": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wired_charging_w": {
+          "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10010342/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10010342/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "telephoto_optical_x": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "security_support_years": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "galaxy-s26-ultra",
+      "canonicalName": "Samsung Galaxy S26 Ultra",
+      "brand": "Samsung",
+      "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+      "imageUrl": "https://www.bettrthan.com/products/phones/galaxy-s26-ultra.jpg",
+      "description": "Samsung Galaxy S26 Ultra with a 6.9-inch display and 256 GB in the compared configuration.",
+      "region": "Global specification / US reference MSRP",
+      "configuration": "256 GB; base storage",
+      "notes": "Specifications are region dependent. Base S26 weight is the Sub-6 model; US mmWave weight may differ. Launch US price shown for context. IP68: 1.5 m freshwater for 30 minutes; not permanent. Security support counted from launch.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 1299.99,
+        "display_inches": 6.9,
+        "refresh_rate_hz": 120,
+        "weight_grams": 214,
+        "storage_gb": 256,
+        "ram_gb": 12,
+        "battery_mah": 5000,
+        "wired_charging_w": 60,
+        "wireless_charging": true,
+        "wireless_charging_w": 25,
+        "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy",
+        "operating_system": "Android",
+        "water_resistance": "IP68",
+        "main_camera_mp": 200,
+        "telephoto_optical_x": 5,
+        "security_support_years": 7
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://news.samsung.com/us/samsung-unveils-galaxy-s26-series-most-intuitive-galaxy-ai-phone-yet",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2026-02-25; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "ram_gb": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "battery_mah": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wired_charging_w": {
+          "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10010342/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://www.samsung.com/us/support/answer/ANS10010342/",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "telephoto_optical_x": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "security_support_years": {
+          "sourceUrl": "https://samsungmobilepress.com/articles/samsung-unveils-galaxy-s26-series-intuitive-galaxy-ai",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "pixel-10",
+      "canonicalName": "Google Pixel 10",
+      "brand": "Google",
+      "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "imageUrl": "https://www.bettrthan.com/products/phones/pixel-10.png",
+      "description": "Google Pixel 10 with a 6.3-inch display and 128 GB in the compared configuration.",
+      "region": "United States",
+      "configuration": "128 GB; base storage",
+      "notes": "US base configuration. Charger recommendations are not a verified peak wired intake rating, so that field is blank. Seven years of updates starts at first US availability. Battery capacity is not a runtime measurement. Water resistance is not permanent. Corroborating specifications: https://store.google.com/product/pixel_10_specs?hl=en-US",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 799,
+        "display_inches": 6.3,
+        "refresh_rate_hz": 120,
+        "weight_grams": 204,
+        "storage_gb": 128,
+        "ram_gb": 12,
+        "battery_mah": 4970,
+        "wireless_charging": true,
+        "wireless_charging_w": 15,
+        "chipset": "Google Tensor G5",
+        "operating_system": "Android",
+        "water_resistance": "IP68",
+        "main_camera_mp": 48,
+        "telephoto_optical_x": 5,
+        "security_support_years": 7
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-10-pro-xl/",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2025-08-20; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "ram_gb": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "battery_mah": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "telephoto_optical_x": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "security_support_years": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "pixel-10-pro",
+      "canonicalName": "Google Pixel 10 Pro",
+      "brand": "Google",
+      "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "imageUrl": "https://www.bettrthan.com/products/phones/pixel-10-pro.png",
+      "description": "Google Pixel 10 Pro with a 6.3-inch display and 128 GB in the compared configuration.",
+      "region": "United States",
+      "configuration": "128 GB; base storage",
+      "notes": "US base configuration. Charger recommendations are not a verified peak wired intake rating, so that field is blank. Seven years of updates starts at first US availability. Battery capacity is not a runtime measurement. Water resistance is not permanent. Corroborating specifications: https://store.google.com/product/pixel_10_pro_specs?hl=en-US",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 999,
+        "display_inches": 6.3,
+        "refresh_rate_hz": 120,
+        "weight_grams": 207,
+        "storage_gb": 128,
+        "ram_gb": 16,
+        "battery_mah": 4870,
+        "wireless_charging": true,
+        "wireless_charging_w": 15,
+        "chipset": "Google Tensor G5",
+        "operating_system": "Android",
+        "water_resistance": "IP68",
+        "main_camera_mp": 50,
+        "telephoto_optical_x": 5,
+        "security_support_years": 7
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-10-pro-xl/",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2025-08-20; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "ram_gb": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "battery_mah": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "telephoto_optical_x": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "security_support_years": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "pixel-10-pro-xl",
+      "canonicalName": "Google Pixel 10 Pro XL",
+      "brand": "Google",
+      "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+      "imageUrl": "https://www.bettrthan.com/products/phones/pixel-10-pro-xl.png",
+      "description": "Google Pixel 10 Pro XL with a 6.8-inch display and 256 GB in the compared configuration.",
+      "region": "United States",
+      "configuration": "256 GB; base storage",
+      "notes": "US base configuration. Charger recommendations are not a verified peak wired intake rating, so that field is blank. Seven years of updates starts at first US availability. Battery capacity is not a runtime measurement. Water resistance is not permanent. Corroborating specifications: https://store.google.com/product/pixel_10_pro_specs?hl=en-US",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-09T00:00:00Z",
+      "specs": {
+        "price_usd": 1199,
+        "display_inches": 6.8,
+        "refresh_rate_hz": 120,
+        "weight_grams": 232,
+        "storage_gb": 256,
+        "ram_gb": 16,
+        "battery_mah": 5200,
+        "wireless_charging": true,
+        "wireless_charging_w": 25,
+        "chipset": "Google Tensor G5",
+        "operating_system": "Android",
+        "water_resistance": "IP68",
+        "main_camera_mp": 50,
+        "telephoto_optical_x": 5,
+        "security_support_years": 7
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-10-pro-xl/",
+          "retrievedAt": "2026-09-09T00:00:00Z",
+          "notes": "US launch MSRP announced 2025-08-20; not a live retailer price. Base storage configuration."
+        },
+        "display_inches": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "refresh_rate_hz": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "ram_gb": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "battery_mah": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "wireless_charging_w": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "chipset": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "water_resistance": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "main_camera_mp": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "telephoto_optical_x": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        },
+        "security_support_years": {
+          "sourceUrl": "https://support.google.com/pixelphone/answer/7158570?hl=en",
+          "retrievedAt": "2026-09-09T00:00:00Z"
+        }
+      }
+    }
+  ]
+}

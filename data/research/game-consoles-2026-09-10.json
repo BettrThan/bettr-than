@@ -1,0 +1,808 @@
+{
+  "id": "game-consoles-2026-09-10",
+  "title": "Game consoles and handhelds deep research: 10 products",
+  "category": "game-consoles",
+  "researchedAt": "2026-09-10T00:00:00Z",
+  "products": [
+    {
+      "slug": "ps5-pro",
+      "canonicalName": "PlayStation 5 Pro",
+      "brand": "PlayStation",
+      "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+      "imageUrl": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-pro-overview-homepage-hero-desktop-background-01-en-16aug24?fmt=png-alpha&wid=1200",
+      "description": "PlayStation 5 Pro gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 899.99,
+        "form_factor": "home-console",
+        "storage_gb": 2000,
+        "weight_grams": 3100,
+        "max_output_resolution": "8K",
+        "output_resolution_score": 4,
+        "max_refresh_hz": 120,
+        "disc_drive": false,
+        "expandable_storage": true,
+        "operating_system": "PlayStation 5 system software"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "ps5-slim-disc",
+      "canonicalName": "PlayStation 5 Slim Disc Edition",
+      "brand": "PlayStation",
+      "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+      "imageUrl": null,
+      "description": "PlayStation 5 Slim Disc Edition gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 549.99,
+        "form_factor": "home-console",
+        "storage_gb": 1000,
+        "weight_grams": 3200,
+        "max_output_resolution": "8K",
+        "output_resolution_score": 4,
+        "max_refresh_hz": 120,
+        "disc_drive": true,
+        "expandable_storage": true,
+        "operating_system": "PlayStation 5 system software"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.playstation.com/en-us/ps5/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "xbox-series-x",
+      "canonicalName": "Xbox Series X 1 TB",
+      "brand": "Xbox",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+      "imageUrl": "https://cms-assets.xboxservices.com/assets/bc/40/bc40fdf3-85a6-4c36-af92-dca2d36fc7e5.png?n=642227_Hero-Gallery-0_A1_857x676.png",
+      "description": "Xbox Series X 1 TB gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 599.99,
+        "form_factor": "home-console",
+        "storage_gb": 1000,
+        "weight_grams": 4450,
+        "max_output_resolution": "8K",
+        "output_resolution_score": 4,
+        "max_refresh_hz": 120,
+        "disc_drive": true,
+        "expandable_storage": true,
+        "operating_system": "Xbox system software"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-x",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "xbox-series-s",
+      "canonicalName": "Xbox Series S 1 TB",
+      "brand": "Xbox",
+      "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+      "imageUrl": "https://cms-assets.xboxservices.com/assets/bf/b0/bfb06f23-4c87-4c58-b4d9-ed25d3a739b9.png?n=389964_Hero-Gallery-0_A1_857x676.png",
+      "description": "Xbox Series S 1 TB gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 399.99,
+        "form_factor": "home-console",
+        "storage_gb": 1000,
+        "weight_grams": 1930,
+        "max_output_resolution": "4K",
+        "output_resolution_score": 3,
+        "max_refresh_hz": 120,
+        "disc_drive": false,
+        "expandable_storage": true,
+        "operating_system": "Xbox system software"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.xbox.com/en-US/consoles/xbox-series-s",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "nintendo-switch-2",
+      "canonicalName": "Nintendo Switch 2",
+      "brand": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+      "imageUrl": null,
+      "description": "Nintendo Switch 2 gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 499.99,
+        "form_factor": "hybrid",
+        "storage_gb": 256,
+        "weight_grams": 534,
+        "max_output_resolution": "4K",
+        "output_resolution_score": 3,
+        "max_refresh_hz": 120,
+        "disc_drive": false,
+        "expandable_storage": true,
+        "display_inches": 7.9,
+        "display_refresh_hz": 120,
+        "battery_hours_min": 2,
+        "battery_hours_max": 6.5,
+        "operating_system": "Nintendo Switch system software"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_inches": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_refresh_hz": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_min": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_max": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "steam-deck-oled",
+      "canonicalName": "Steam Deck OLED 512 GB",
+      "brand": "Valve",
+      "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+      "imageUrl": "https://cdn.fastly.steamstatic.com/steamdeck/images/oled/oled_deck_top.png",
+      "description": "Steam Deck OLED 512 GB gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 549,
+        "form_factor": "handheld-pc",
+        "storage_gb": 512,
+        "weight_grams": 640,
+        "max_output_resolution": "4K",
+        "output_resolution_score": 3,
+        "max_refresh_hz": 120,
+        "disc_drive": false,
+        "expandable_storage": true,
+        "display_inches": 7.4,
+        "display_refresh_hz": 90,
+        "battery_hours_min": 3,
+        "battery_hours_max": 12,
+        "operating_system": "SteamOS"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_inches": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_refresh_hz": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_min": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_max": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.steamdeck.com/en/tech/oled",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "rog-xbox-ally-x",
+      "canonicalName": "ROG Xbox Ally X",
+      "brand": "ASUS",
+      "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+      "imageUrl": "https://dlcdnwebimgs.asus.com/files/media/6467bc1b-72db-4098-9489-b7fd15d8d599/v3/images/large/1x/compare_product_black.png",
+      "description": "ROG Xbox Ally X gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 999.99,
+        "form_factor": "handheld-pc",
+        "storage_gb": 1000,
+        "weight_grams": 715,
+        "max_output_resolution": "4K",
+        "output_resolution_score": 3,
+        "max_refresh_hz": 120,
+        "disc_drive": false,
+        "expandable_storage": true,
+        "display_inches": 7,
+        "display_refresh_hz": 120,
+        "battery_hours_min": 2,
+        "battery_hours_max": 8,
+        "operating_system": "Windows 11 Home"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_inches": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_refresh_hz": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_min": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_max": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally-x/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "rog-xbox-ally",
+      "canonicalName": "ROG Xbox Ally",
+      "brand": "ASUS",
+      "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+      "imageUrl": "https://dlcdnwebimgs.asus.com/files/media/6467bc1b-72db-4098-9489-b7fd15d8d599/v3/images/large/1x/compare_product_black.png",
+      "description": "ROG Xbox Ally gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 599.99,
+        "form_factor": "handheld-pc",
+        "storage_gb": 512,
+        "weight_grams": 670,
+        "max_output_resolution": "4K",
+        "output_resolution_score": 3,
+        "max_refresh_hz": 120,
+        "disc_drive": false,
+        "expandable_storage": true,
+        "display_inches": 7,
+        "display_refresh_hz": 120,
+        "battery_hours_min": 2,
+        "battery_hours_max": 7,
+        "operating_system": "Windows 11 Home"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_inches": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_refresh_hz": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_min": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_max": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://rog.asus.com/gaming-handhelds/rog-xbox-ally/spec/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "legion-go-s-steamos",
+      "canonicalName": "Lenovo Legion Go S (SteamOS)",
+      "brand": "Lenovo",
+      "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+      "imageUrl": null,
+      "description": "Lenovo Legion Go S (SteamOS) gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 649.99,
+        "form_factor": "handheld-pc",
+        "storage_gb": 512,
+        "weight_grams": 730,
+        "max_output_resolution": "4K",
+        "output_resolution_score": 3,
+        "max_refresh_hz": 120,
+        "disc_drive": false,
+        "expandable_storage": true,
+        "display_inches": 8,
+        "display_refresh_hz": 120,
+        "battery_hours_min": 2,
+        "battery_hours_max": 7,
+        "operating_system": "SteamOS"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_inches": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_refresh_hz": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_min": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_max": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.lenovo.com/us/en/p/handheld/legion-go-s-steamos/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "msi-claw-8-ex-ai-plus",
+      "canonicalName": "MSI Claw 8 EX AI+",
+      "brand": "MSI",
+      "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+      "imageUrl": "https://storage-asset.msi.com/global/picture/image/feature/Handhelds/Claw-8-ex-ai-plus/kv/kv-pd.png",
+      "description": "MSI Claw 8 EX AI+ gaming system normalized across price, storage, portability, display or output, and expansion hardware.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 1799,
+        "form_factor": "handheld-pc",
+        "storage_gb": 2000,
+        "weight_grams": 795,
+        "max_output_resolution": "4K",
+        "output_resolution_score": 3,
+        "max_refresh_hz": 120,
+        "disc_drive": false,
+        "expandable_storage": true,
+        "display_inches": 8,
+        "display_refresh_hz": 120,
+        "battery_hours_min": 3,
+        "battery_hours_max": 10,
+        "operating_system": "Windows 11 Home"
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "form_factor": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "storage_gb": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_output_resolution": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "output_resolution_score": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "max_refresh_hz": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "disc_drive": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "expandable_storage": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_inches": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display_refresh_hz": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_min": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_hours_max": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "operating_system": {
+          "sourceUrl": "https://www.msi.com/Handheld/Claw-8-EX-AI-Plus-A2VMX/Specification",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+{
+  "id": "wearables-2026-09-10",
+  "title": "Wearables deep research: 10 products",
+  "category": "wearables",
+  "researchedAt": "2026-09-10T00:00:00Z",
+  "products": [
+    {
+      "slug": "apple-watch-series-12",
+      "canonicalName": "Apple Watch Series 12 (46 mm GPS)",
+      "brand": "Apple",
+      "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+      "imageUrl": "https://www.apple.com/v/apple-watch-series-12/a/images/overview/heart-rate/hrv__dgzjlflrbi6a_large.avif",
+      "description": "Apple Watch Series 12 (46 mm GPS) wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 429,
+        "device_type": "smartwatch",
+        "battery_days": 1,
+        "weight_grams": 36.4,
+        "water_resistance_m": 50,
+        "gps": true,
+        "heart_rate": true,
+        "ecg": true,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": true,
+        "ios": true,
+        "android": false,
+        "subscription_usd_monthly": 0
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "apple-watch-ultra-4",
+      "canonicalName": "Apple Watch Ultra 4",
+      "brand": "Apple",
+      "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+      "imageUrl": "https://www.apple.com/v/apple-watch-ultra-4/a/images/overview/product-viewer/product_finishes__dbkgeoads3e6_large.jpg",
+      "description": "Apple Watch Ultra 4 wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 799,
+        "device_type": "smartwatch",
+        "battery_days": 2.08,
+        "weight_grams": 61.4,
+        "water_resistance_m": 100,
+        "gps": true,
+        "heart_rate": true,
+        "ecg": true,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": true,
+        "ios": true,
+        "android": false,
+        "subscription_usd_monthly": 0
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "pixel-watch-5",
+      "canonicalName": "Google Pixel Watch 5 (41 mm)",
+      "brand": "Google",
+      "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+      "imageUrl": null,
+      "description": "Google Pixel Watch 5 (41 mm) wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 399.99,
+        "device_type": "smartwatch",
+        "battery_days": 1.25,
+        "weight_grams": 31,
+        "gps": true,
+        "heart_rate": true,
+        "ecg": true,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": true,
+        "ios": false,
+        "android": true,
+        "subscription_usd_monthly": 0
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://store.google.com/product/pixel_watch_5?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "galaxy-watch9",
+      "canonicalName": "Samsung Galaxy Watch9 (40 mm)",
+      "brand": "Samsung",
+      "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+      "imageUrl": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/07/22214646/Samsung-Mobile-Galaxy-Unpacked-July-2026-Galaxy-Watch-Ultra2-Galaxy-Watch9-A-First-Look_Main6.jpg",
+      "description": "Samsung Galaxy Watch9 (40 mm) wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 379.99,
+        "device_type": "smartwatch",
+        "battery_days": 1.67,
+        "weight_grams": 30,
+        "water_resistance_m": 50,
+        "gps": true,
+        "heart_rate": true,
+        "ecg": true,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": true,
+        "ios": false,
+        "android": true,
+        "subscription_usd_monthly": 0
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://www.samsung.com/us/watches/galaxy-watch9/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "garmin-venu-4",
+      "canonicalName": "Garmin Venu 4 (45 mm)",
+      "brand": "Garmin",
+      "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+      "imageUrl": null,
+      "description": "Garmin Venu 4 (45 mm) wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 549.99,
+        "device_type": "smartwatch",
+        "battery_days": 12,
+        "weight_grams": 56,
+        "water_resistance_m": 50,
+        "gps": true,
+        "heart_rate": true,
+        "ecg": true,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": true,
+        "ios": true,
+        "android": true,
+        "subscription_usd_monthly": 0
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://www.garmin.com/en-US/p/1614061/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "fitbit-air",
+      "canonicalName": "Google Fitbit Air",
+      "brand": "Google",
+      "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+      "imageUrl": null,
+      "description": "Google Fitbit Air wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 99.99,
+        "device_type": "fitness-tracker",
+        "battery_days": 7,
+        "weight_grams": 12,
+        "water_resistance_m": 50,
+        "gps": false,
+        "heart_rate": true,
+        "ecg": false,
+        "spo2": true,
+        "temperature": false,
+        "sleep_tracking": true,
+        "display": false,
+        "ios": true,
+        "android": true,
+        "subscription_usd_monthly": 0
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://store.google.com/product/fitbit_air?hl=en-US",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "whoop-mg",
+      "canonicalName": "WHOOP MG",
+      "brand": "WHOOP",
+      "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+      "imageUrl": null,
+      "description": "WHOOP MG wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 359,
+        "device_type": "fitness-tracker",
+        "battery_days": 14,
+        "weight_grams": 27,
+        "water_resistance_m": 10,
+        "gps": false,
+        "heart_rate": true,
+        "ecg": true,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": false,
+        "ios": true,
+        "android": true,
+        "subscription_usd_monthly": 29.99
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://www.whoop.com/us/en/thelocker/introducing-whoop-mg/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "oura-ring-5",
+      "canonicalName": "Oura Ring 5",
+      "brand": "Oura",
+      "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+      "imageUrl": "https://ourahealth.imgix.net/cooper-pop/hero/or5-deep-rose-side-view.png?auto=format&fit=max&fm=png&ixlib=js-3.8.0&q=70&s=a17a99d388f5bc627e4cea12d615a93f&w=3840",
+      "description": "Oura Ring 5 wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 399,
+        "device_type": "smart-ring",
+        "battery_days": 9,
+        "weight_grams": 3.3,
+        "water_resistance_m": 100,
+        "gps": false,
+        "heart_rate": true,
+        "ecg": false,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": false,
+        "ios": true,
+        "android": true,
+        "subscription_usd_monthly": 5.99
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://ouraring.com/store/rings/oura-ring-5",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "samsung-galaxy-ring",
+      "canonicalName": "Samsung Galaxy Ring",
+      "brand": "Samsung",
+      "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+      "imageUrl": null,
+      "description": "Samsung Galaxy Ring wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 399.99,
+        "device_type": "smart-ring",
+        "battery_days": 7,
+        "weight_grams": 2.3,
+        "water_resistance_m": 100,
+        "gps": false,
+        "heart_rate": true,
+        "ecg": false,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": false,
+        "ios": false,
+        "android": true,
+        "subscription_usd_monthly": 0
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price or launch MSRP; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://www.samsung.com/us/rings/galaxy-ring/",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    },
+    {
+      "slug": "ringconn-gen-2-air",
+      "canonicalName": "RingConn Gen 2 Air",
+      "brand": "RingConn",
+      "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+      "imageUrl": null,
+      "description": "RingConn Gen 2 Air wearable normalized across health sensors, battery, comfort, durability, compatibility, and ownership cost.",
+      "region": "United States",
+      "configuration": "Current base configuration",
+      "notes": "Manufacturer-published specifications normalized for cross-product comparison. Missing or inapplicable fields are not inferred.",
+      "priceBasis": "launch_msrp",
+      "retrievedAt": "2026-09-10T00:00:00Z",
+      "specs": {
+        "price_usd": 199,
+        "device_type": "smart-ring",
+        "battery_days": 10,
+        "weight_grams": 2.5,
+        "water_resistance_m": 100,
+        "gps": false,
+        "heart_rate": true,
+        "ecg": false,
+        "spo2": true,
+        "temperature": true,
+        "sleep_tracking": true,
+        "display": false,
+        "ios": true,
+        "android": true,
+        "subscription_usd_monthly": 0
+      },
+      "fieldSources": {
+        "price_usd": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z",
+          "notes": "US manufacturer reference price; not a live retailer offer."
+        },
+        "device_type": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "battery_days": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "weight_grams": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "water_resistance_m": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "gps": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "heart_rate": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ecg": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "spo2": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "temperature": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "sleep_tracking": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "display": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "ios": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "android": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        },
+        "subscription_usd_monthly": {
+          "sourceUrl": "https://ringconn.com/products/ringconn-gen-2-air",
+          "retrievedAt": "2026-09-10T00:00:00Z"
+        }
+      }
+    }
+  ]
+}

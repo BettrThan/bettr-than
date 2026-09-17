@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788406518853,
+      "tag": "0000_kind_the_fury",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788443489503,
+      "tag": "0001_square_carnage",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788461614700,
+      "tag": "0002_silly_titania",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1788544582695,
+      "tag": "0003_reflective_hairball",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1788549096625,
+      "tag": "0004_naive_beast",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1788577952516,
+      "tag": "0005_majestic_hulk",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1788640745089,
+      "tag": "0006_zippy_la_nuit",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1788641563583,
+      "tag": "0007_calm_shatterstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1788987390319,
+      "tag": "0008_chubby_lenny_balinger",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1788987557648,
+      "tag": "0009_high_network",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "6",
+      "when": 1788988052549,
+      "tag": "0010_approved_smartphone_launch",
+      "breakpoints": true
+    }
+  ]
+}

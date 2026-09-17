@@ -1,0 +1,47 @@
+{
+  "marshall-kilburn-iii": {
+    "src": "/products/qa-marshall-kilburn-iii.jpg",
+    "sourcePage": "https://www.marshall.com/us/en/speakers",
+    "originalImageUrl": "https://images.ctfassets.net/javen7msabdh/6FHAUQzrTAElqcqiG0QXND/c1450280d3b1a2d48099f9af1d1c6790/kilburn-iii-bb-plp.jpg?w=1200&fm=jpg&q=85"
+  },
+  "ringconn-gen-2-air": {
+    "src": "/products/qa-ringconn-gen-2-air.png",
+    "sourcePage": "https://ringconn.com/products/ringconn-gen-2-air",
+    "originalImageUrl": "https://ringconn.com/cdn/shop/files/ringconn_gen_2_air_1.png?v=1780302386&width=736"
+  },
+  "vive-xr-elite": {
+    "src": "/products/qa-vive-xr-elite.png",
+    "sourcePage": "https://www.vive.com/us/product/vive-xr-elite/overview/",
+    "originalImageUrl": "https://www.vive.com/media/filer_public/vive/product-listing/hero-vive-xr-elite-full-kit-687.png"
+  },
+  "ps5-slim-disc": {
+    "src": "/products/qa-ps5-slim-disc.jpg",
+    "sourcePage": "https://www.playstation.com/",
+    "originalImageUrl": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-slim-disc-console-featured-hardware-image-block-02-en-15nov23"
+  },
+  "fitbit-air": {
+    "src": "/products/qa-fitbit-air.jpg",
+    "sourcePage": "https://store.google.com/product/google_fitbit_air?hl=en-US",
+    "originalImageUrl": "https://lh3.googleusercontent.com/aHJ-Qt1g5fKHZlPPWxNkVPcWaQxcv85WrPHKH9Jwg8nZagUEBAD8JtPjQOvJ8Gul1E89Izixk5F8B8-Posf_oJJqYmwh_gouk3M=rj-sc0xffffffff"
+  },
+  "jbl-go-5": {
+    "src": "/products/qa-jbl-go-5.png",
+    "sourcePage": "https://ch.jbl.com/GO-5.html",
+    "originalImageUrl": "https://ch.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0d83ca71/LS_JBL_GO5_HERO_RED_0007_x4.png?sh=680&sw=680"
+  },
+  "jbl-xtreme-5": {
+    "src": "/products/qa-jbl-xtreme-5.png",
+    "sourcePage": "https://ch.jbl.com/XTREME-5-NA.html",
+    "originalImageUrl": "https://ch.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwcb2415b4/LS_JBL_XTREME_5_3_4_RIGHT_BLUE_0060_x3.png?sh=680&sw=680"
+  },
+  "nintendo-switch-2": {
+    "src": "/products/qa-nintendo-switch-2.png",
+    "sourcePage": "https://www.nintendo.com/us/gaming-systems/switch-2/features/",
+    "originalImageUrl": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/features/Play-Mode-hardware"
+  },
+  "whoop-mg": {
+    "src": "/products/qa-whoop-mg.webp",
+    "sourcePage": "https://www.whoop.com/pl/en/",
+    "originalImageUrl": "https://images.ctfassets.net/rbzqg6pelgqa/4jiLfkO6RPmVBkcMtN3jRX/87b712d7ce771cf1d579d619aed659f0/Life_card__3_.webp?fm=webp&q=25&w=3840"
+  }
+}
